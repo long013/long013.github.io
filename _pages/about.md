@@ -26,11 +26,21 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - Environmental impact assessment of food systems 🧩
 
 # 📖 Education
-- *2020.09 - 2025.09 (Expected)*: PhD Candidate of Economics in Environmental and Natural Resource Economics, [Wageningen University & Research](https://www.wur.nl/) (supervised by Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)), Wageningen, The Netherlands.
-- *2024.10 - 2025.01*: Visiting PhD Student, [University of California, Davis](https://www.ucdavis.edu/) (supervised by Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)), California, United States.
-- *2020.09 - 2021.09*: Visiting PhD Student, [China Agricultural university](https://en.cau.edu.cn/) (supervised by Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)), Beijing, China.
-- *2018.09 - 2020.06*: Master of Agriculture in Plant Nutrition, [China Agricultural university](https://en.cau.edu.cn/) (supervised by Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)), Beijing, China.
-- *2014.09 - 2018.06*: Bachelor of Agriculture in Agricultural Resources and Environment (Dual Bachelor of Arts in English), [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China. 
+**2020.09 - 2025.09 (Expected) PhD Candidate of Economics in Environmental and Natural Resource Economics, [Wageningen University & Research](https://www.wur.nl/), Wageningen, The Netherlands** 
+- Dissertation: Integrated environmental-economic modelling of sustainable food systems in China [Slides](assets/20240910_PhD research outline_Weitong Long.pdf)
+- Program: The Sino-Dutch Agriculture Green Development (AGD) PhD program [Link](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
+- Supervisor: Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)).
+
+**2024.10 - 2025.01 Visiting PhD Student, [University of California, Davis](https://www.ucdavis.edu/), California, United States** 
+- Supervisor: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)).
+
+**2020.09 - 2021.09 Visiting PhD Student, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China** 
+- Supervisor: Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)).
+
+**2018.09 - 2020.06 Master of Agriculture in Plant Nutrition, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China** 
+- Supervisor: Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)).
+
+**2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment (Dual Bachelor of Arts in English), [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China**
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉 **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month PhD study at [University of California, Davis](https://www.ucdavis.edu/) (4,000 €).
