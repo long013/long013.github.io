@@ -42,7 +42,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - **Supervisor**: Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 
 **2018.09 - 2020.06 Master of Agriculture in Plant Nutrition, College of Resources and Environmental Sciences, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China** 
-- **Supervisor**: Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) and Associate Prof. Dr. [Hpngliang Wang](https://faculty.cau.edu.cn/whl1/)
+- **Supervisor**: Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) and Associate Prof. Dr. [Hongliang Wang](https://faculty.cau.edu.cn/whl1/)
 - **Awarded** for the [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Top 1% best master thesis in China).
 
 **2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment, College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China**
