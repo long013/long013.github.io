@@ -109,13 +109,13 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 
 # 💡 Academic Services
 **Conference Parallel Session Chair and Discussant**
-- [The 29th Anuual Conference of EAERE](http://www.eaere-conferences.org/index.php?y=2024), 07/2024.  
+- [The 29th Anuual Conference of EAERE](http://www.eaere-conferences.org/index.php?y=2024) in the session of  “Theory models”, 07/2024.  
 
 **Conference Abstract Reviewer**
-- [The 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting), 02/2024.  
+- [The 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 02/2024.  
 
 **Conference Organising Committee**
-- The 7th Sino-Dutch Agriculture Green Development (AGD) Symposium, 02/2023.  
+- The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums, 02/2023.  
 
 # 💬 Conference Presentations
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation to be delivered at the **[29th Annual Conference of EAERE](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.
