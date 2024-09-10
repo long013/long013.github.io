@@ -12,8 +12,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Key Publications"
-    url: "/#-key-publications"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Working Papers"
     url: "/#-working-papers"
