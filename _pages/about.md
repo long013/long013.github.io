@@ -89,8 +89,8 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **A modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security**. ***Submitted to a Peer-Reviewed Journal (Job Market Paper)***. [[Main Text](assets/20240520_Food waste paper_Weitong Long.pdf); [Supplementary information](assets/20240520_Supplementary information_Food waste paper_Weitong Long.pdf); [Slides](assets/20240703_Food waste slides_Weitong Long.pdf)].     
 
 # 🔍 Work in Progess
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Food system transformation is key to achieving food security and environmental sustainability in China**. ***In Preparation***. ([Proposal](assets/20230620_Paper 3 proposal_Weitong Long.pdf)).
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Exploring transformation options in the food-land-water-climate nexus: towards achieving multiple Sustainable Development Goals (SDGs) in China**. ***In Preparation***. ([Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)). 
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Food system transformation is key to achieving food security and environmental sustainability in China**. ***In Preparation***. [[Proposal](assets/20230620_Paper 3 proposal_Weitong Long.pdf)].
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Exploring transformation options in the food-land-water-climate nexus: towards achieving multiple Sustainable Development Goals (SDGs) in China**. ***In Preparation***. [[Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)]. 
 
 # 👩‍🏫 Teaching and Mentoring
 During my PhD studies at Wageningen University & Research, I have been acting as the teaching assistant for the Master-level courses (Principles of climate change economics and policy, 2022; Economic modelling of sustainability challenges, 2023 & 2024) and supervising Master's thesis (2023 & 2024). 
