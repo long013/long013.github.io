@@ -63,7 +63,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the 0.1% best master thesis in China).
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
-# 📝 Key Publications 
+# 📝 Publications 
 **Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 10/09/2024): total=169; h-index=7; i-10=6**
 - **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359), ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451.  
 - Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub), ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.0)***, 289, 106748.  
