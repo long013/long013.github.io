@@ -138,8 +138,11 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 # 🏆 Grants and Awards
 - *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €).
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €).
+- *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €)
+- *2021.02*: Educational backpack for taking courses and attending conferences from WASS (3,500 €)
+- *2020.12*: Research Grant from the Sino-Dutch AGD Program for data collection (8,300 €)
 - *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €).
-- *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the 0.1% best master thesis in China).
+- *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% master thesis in China).
 - *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%). 
 - *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%). 
