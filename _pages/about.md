@@ -65,8 +65,8 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 
 # 📝 Publications 
 ***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 10/09/2024): Total=169; H-index=7; I-10=6***
-- **Peer-Reviewed Journal Articles (First Author)**
-1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*Accpeted at* ***Sustainable Production and Consumption; SCI & SSCI Q1; IF=10.9***). **Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework** [[Main Text](assets/20240825_SPC_Manuscript_clean version.pdf); [Supplementary information](assets/20240825_SPC_Supplementary information.pdf); [Slides](assets/202307_EAERE summer school_Weitong Long.pdf)].  
+- **Peer-Reviewed Journal Articles (First Author)**   
+1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*Accpeted at* ***Sustainable Production and Consumption; SCI & SSCI Q1; IF=10.9***). **Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework** [[Main Text](assets/20240825_SPC_Manuscript_clean version.pdf); [Supplementary information](assets/20240825_SPC_Supplementary information.pdf); [Slides](assets/202307_EAERE summer school_Weitong Long.pdf)].
 2) **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359), ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451.
    
 - **Peer-Reviewed Journal Articles (First Author)** 
