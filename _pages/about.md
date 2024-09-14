@@ -16,7 +16,7 @@ With over 6+ years of experience as a Quantitative researcher and economist, I s
 
 I have published 10 scientific papers in peer-reviewed journals, including two first-authored papers, one published in **Environmental Science & Technology (SCI Q1; IF= 10.8)** and the other in **Sustainable Production and Consumption (SCI & SSCI Q1, IF=10.9)**, along with a co-authored paper published in **Nature Food (SCI Q1; IF=23.6)**. For a full list of my publications, please check on [Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl).
 
-In my **Job Market Paper** [[Main Text](assets/20240914_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20240914_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)]], I highlighted that a modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security. 
+In my **Job Market Paper** [[Main Text](assets/20240914_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20240914_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)], I highlighted that a modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security. 
 
 You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240910_CV_Weitong Long.pdf)
 
@@ -86,7 +86,7 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 8) Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub). ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.0)***, 289, 106748.                 
 
 # 📜 Working Papers
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **A modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security**. ***Submitted to a Peer-Reviewed Journal (Job Market Paper)***. [[Main Text](assets/20240914_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20240914_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)]].     
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **A modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security**. ***Submitted to a Peer-Reviewed Journal (Job Market Paper)***. [[Main Text](assets/20240914_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20240914_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)].     
 
 # 🔍 Work in Progess
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Food system transformation is key to achieving food security and environmental sustainability in China**. ***In Preparation***. [[Proposal](assets/20230620_Paper 3 proposal_Weitong Long.pdf)].
