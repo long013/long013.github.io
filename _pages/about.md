@@ -54,7 +54,7 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 - Dual Bachelor of Arts in English
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉 One first-authored paper accepted at ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku).
+- *2024.09*: &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku).
 - *2024.07*: &nbsp;🎉 **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month PhD study at [University of California, Davis](https://www.ucdavis.edu/) (4,000 €).
 - *2024.07*: &nbsp; An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
 - *2024.06*: &nbsp; An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, The Netherlands).
