@@ -16,7 +16,7 @@ With over 6+ years of experience as a Quantitative researcher and economist, I s
 
 I have published 10 scientific papers in peer-reviewed journals, including two first-authored papers, one published in **Environmental Science & Technology (SCI Q1; IF= 10.8)** and the other in **Sustainable Production and Consumption (SCI & SSCI Q1, IF=10.9)**, along with a co-authored paper published in **Nature Food (SCI Q1; IF=23.6)**. For a full list of my publications, please check on [Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl).
 
-In my **Job Market Paper** [[Main Text](assets/20240520_Food waste paper_Weitong Long.pdf); [Supplementary information](assets/20240520_Supplementary information_Food waste paper_Weitong Long.pdf); [Slides](assets/20240703_Food waste slides_Weitong Long.pdf)], I highlighted that a modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security. 
+In my **Job Market Paper** [[Main Text](assets/20240914_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20240914_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)]], I highlighted that a modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security. 
 
 You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240910_CV_Weitong Long.pdf)
 
@@ -69,10 +69,10 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
 # 📝 Publications 
-***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 10/09/2024): Total=169; H-index=7; I-10=6***
+***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 14/09/2024): Total=170; H-index=7; I-10=6***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
-1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). **Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**. ***Accpeted at Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***.  [[Main Text](assets/20240825_SPC_Manuscript_clean version.pdf); [Supplementary information](assets/20240825_SPC_Supplementary information.pdf); [Slides](assets/202307_EAERE summer school_Weitong Long.pdf)].                  
+1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku). ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***.                  
 2) **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451.
    
 - **Peer-Reviewed Journal Articles (Other)**      
@@ -145,12 +145,12 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 - CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021. 
 
 # 🏆 Grants and Awards
-- *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €).
-- *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €).
-- *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €)
-- *2021.02*: Educational backpack for taking courses and attending conferences from WASS (3,500 €)
-- *2020.12*: Research Grant from the Sino-Dutch AGD Program for data collection (8,300 €)
-- *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €).
+- *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €; PI).
+- *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
+- *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €; PI)
+- *2021.02*: Educational backpack for taking courses and attending conferences from WASS (3,500 €; PI)
+- *2020.12*: Research Grant from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
+- *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €; PI).
 - *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% master thesis in China).
 - *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%). 
