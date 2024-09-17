@@ -65,14 +65,14 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 - *2022.07*: &nbsp; One second-authored paper published in ***Animal Feed Science and Technology (SCI Q1; IF=2.5)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
 - *2021.04*: &nbsp;🎉 One first-authored paper published in ***Environmental Science & Technology (SCI Q1; IF=10.8)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
 - *2020.12*: &nbsp;🎉 **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the four-year PhD study at [Wageningen University & Research](https://www.wur.nl/) (64,800 €).
-- *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the 0.1% best master thesis in China).
+- *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% master thesis in China).
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
 # 📝 Publications 
-***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 14/09/2024): Total=170; H-index=7; I-10=6***
+***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 17/09/2024): Total=174; H-index=7; I-10=6***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
-1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku). ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***.                  
+1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku). ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54.                  
 2) **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451.
    
 - **Peer-Reviewed Journal Articles (Other)**      
