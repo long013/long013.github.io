@@ -65,7 +65,7 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 - *2022.07*: &nbsp; One second-authored paper published in ***Animal Feed Science and Technology (SCI Q1; IF=2.5)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
 - *2021.04*: &nbsp;🎉 One first-authored paper published in ***Environmental Science & Technology (SCI Q1; IF=10.8)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
 - *2020.12*: &nbsp;🎉 **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the four-year PhD study at [Wageningen University & Research](https://www.wur.nl/) (64,800 €).
-- *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% master thesis in China).
+- *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
 # 📝 Publications 
@@ -151,7 +151,7 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 - *2021.02*: Educational backpack for taking courses and attending conferences from WASS (3,500 €; PI)
 - *2020.12*: Research Grant from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
 - *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €; PI).
-- *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% master thesis in China).
+- *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
 - *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%). 
 - *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%). 
