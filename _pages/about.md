@@ -20,7 +20,7 @@ I have published 10 scientific papers in peer-reviewed journals, including two f
 
 In my **Job Market Paper** [[Main Text](assets/20240914_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20240914_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)], I highlighted that a modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security. 
 
-You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240914_CV_Weitong Long.pdf)
+You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240917_CV_Weitong Long.pdf)
 
 # 🎀 Research Interests
 - Sustainable food systems and food-land-water-climate nexus 🍽️🐾💧🌎
