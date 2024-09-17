@@ -37,7 +37,7 @@ Wageningen School of Social Sciences, [Wageningen University & Research](https:/
 
 **2024.10 - 2025.01 Visiting PhD Student                  
 School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), California, United States** 
-- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
+- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano) and Postdoc Dr. [Luis Garcia-Covarrubias](https://www.luisgarciacovarrubias.com/)
 - **Awarded** for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €)
 
 **2020.09 - 2021.09 Visiting PhD Student                           
