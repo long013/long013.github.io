@@ -130,7 +130,7 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 - *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%)                    
 
 # 👩‍🏫 Teaching and Mentoring
-During my PhD studies at Wageningen University & Research, I have been acting as the teaching assistant for the Master-level courses (Principles of climate change economics and policy, 2022; Economic modelling of sustainability challenges, 2023 & 2024) and supervising Master's thesis (2023 & 2024). 
+During my PhD studies at Wageningen University & Research, I have been acting as the teaching assistant for the Master-level courses (Principles of climate change economics and policy, 2022; Economic modelling of sustainability challenges, 2023 & 2024) and supervising Master's thesis (2023 & 2024).               
 
 **ENR32806: Economic Modelling of Sustainability Challenges (2023 & 2024 Spring)**                            
 **Wageningen University & Research, Wageningen, The Netherlands**                 
