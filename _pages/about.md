@@ -43,7 +43,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - Environmental impact assessment of food systems 🧩
 
 # 📖 Education           
-**Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, The Netherlands** 
+**Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, The Netherlands**              
 *2020.09 - 2025.09 (Expected) PhD Candidate of Economics in Environmental and Natural Resource Economics*  
 **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €)
 - **Supervisor**: Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
