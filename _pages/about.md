@@ -44,37 +44,37 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 
 # 📖 Education           
 **Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, The Netherlands**              
-*2020.09 - 2025.09 (Expected) PhD Candidate of Economics in Environmental and Natural Resource Economics*  
-**Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €)
+**2020.09 - 2025.09 (Expected) PhD Candidate of Economics in Environmental and Natural Resource Economics**  
 - **Supervisor**: Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program**: [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
-- **Dissertation**: Integrated environmental-economic modelling of sustainable food systems in China [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
-
-**2024.10 - 2025.01 Visiting PhD Student                  
-School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), California, United States** 
+- **Dissertation**: *Integrated environmental-economic modelling of sustainable food systems in China* [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
+- **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €)
+                 
+**School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), California, United States** 
+**2024.10 - 2025.01 Visiting PhD Student** 
 - **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
 - **Honor**: Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €)
-
-**2020.09 - 2021.09 Visiting PhD Student                           
-College of Resources and Environmental Sciences, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China** 
-- **Supervisor**: Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
-
-**2018.09 - 2020.06 Master of Agriculture in Plant Nutrition                  
-College of Resources and Environmental Sciences, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China** 
+                     
+**College of Resources and Environmental Sciences, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China** 
+**2020.09 - 2021.09 Visiting PhD Student**
+**2018.09 - 2020.06 Master of Agriculture in Plant Nutrition**                 
 - **Supervisor**: Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) and Associate Prof. Dr. [Hongliang Wang](https://faculty.cau.edu.cn/whl1/)
+- **Dissertation**: *Nitrogen footprint of China’s pig production and feeding mitigation measures*
 - **Honor**: Awarded for the [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Top 1% best master thesis in China)
-
-**2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment                             
-College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China**
-- Dual Bachelor of Arts in English
+                           
+**College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China**
+**2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment**
+**2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment**  
+- **Supervisor**: Prof. Dr. [Yunxiang Huang](https://zyxy.hunau.edu.cn/szll_9627/nyzyyhjx_9628/js_9661/202303/t20230321_379844.html)
+- **Dissertation**: *Attribution of Typical Dryland Soil in Chenzhou to Soil Systematic Classification in China*
 
 # 👾 Training courses
+**University of Graz, Graz, Austria**
 **[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) in Resource and Environmental Economics**  
-*University of Graz, Graz, Austria*
 - Transnational and Cascading Climate Risks and Adaptation, 07/2023.     
 
+**Victoria University & University of International Business and Economics, Beijing, China**
 **Dynamic General Equilibrium Modelling Course**  
-*Victoria University & University of International Business and Economics, Beijing, China*
 - CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021.
 
 # 📝 Publications 
