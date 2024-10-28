@@ -69,12 +69,12 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - **Dissertation**: *Attribution of Typical Dryland Soil in Chenzhou to Soil Systematic Classification in China*
 
 # 👾 Training courses
-**University of Graz, Graz, Austria**
-**[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) in Resource and Environmental Economics**  
+**University of Graz, Graz, Austria**                
+**[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) in Resource and Environmental Economics**       
 - Transnational and Cascading Climate Risks and Adaptation, 07/2023.     
 
-**Victoria University & University of International Business and Economics, Beijing, China**
-**Dynamic General Equilibrium Modelling Course**  
+**Victoria University & University of International Business and Economics, Beijing, China**                      
+**Dynamic General Equilibrium Modelling Course**        
 - CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021.
 
 # 📝 Publications 
