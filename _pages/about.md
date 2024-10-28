@@ -18,26 +18,26 @@ With over 6+ years of experience as a Quantitative researcher and economist, I s
 
 I have published 10 scientific papers in peer-reviewed journals, including two first-authored papers, one published in **Environmental Science & Technology (SCI Q1; IF= 10.8)** and the other in **Sustainable Production and Consumption (SCI & SSCI Q1, IF=10.9)**, along with a co-authored paper published in **Nature Food (SCI Q1; IF=23.6)**. For a full list of my publications, please check on [Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl).
 
-In my **Job Market Paper** [[Main Text](assets/20241012_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20241012_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)], I highlighted that a modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security. 
+In my **Job Market Paper** [[Main Text](assets/20241012_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20241012_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)], I highlighted that rebound effects may undermine benefits of upcycling low-opportunity-cost feed as animal feed in China, and a modest mitigation target could address these rebound effects in China while safeguarding global food security. 
 
 You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240917_CV_Weitong Long.pdf)
 
-# 🎀 Research Interests
-- Sustainable food systems and food-land-water-climate nexus 🍽️🐾💧🌎
+# 🎀 Research Area
+- Sustainable food systems, food-land-water-climate nexus, and climate mitigation 🍽️🐾💧🌎
 - Integrated environmental-economic modelling of food systems 💻
 - Environmental impact assessment of food systems 🧩
 
 # 📖 Education
 **2020.09 - 2025.09 (Expected) PhD Candidate of Economics in Environmental and Natural Resource Economics                 
 Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, The Netherlands** 
-- **Dissertation**: Integrated environmental-economic modelling of sustainable food systems in China [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
-- **Program**: [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
 - **Supervisor**: Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
+- **Program**: [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
+- **Dissertation**: Integrated environmental-economic modelling of sustainable food systems in China [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
 - **Awarded** for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €)
 
 **2024.10 - 2025.01 Visiting PhD Student                  
 School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), California, United States** 
-- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano) and Postdoc Dr. [Luis Garcia-Covarrubias](https://www.luisgarciacovarrubias.com/)
+- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
 - **Awarded** for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €)
 
 **2020.09 - 2021.09 Visiting PhD Student                           
@@ -69,7 +69,7 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
 # 📝 Publications 
-***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 17/09/2024): Total=174; H-index=7; I-10=6***
+***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 28/10/2024): Total=180; H-index=7; I-10=6***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku). ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54.                  
@@ -86,7 +86,7 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 8) Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub). ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.0)***, 289, 106748.                 
 
 # 📜 Working Papers
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **A modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security**. ***Submitted to a Peer-Reviewed Journal (Job Market Paper)***. [[Main Text](assets/20240914_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20240914_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)].     
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Rebound effects may undermine benefits of upcycling low-opportunity-cost feed as animal feed in China**. ***Submitted to a Peer-Reviewed Journal (Job Market Paper)***. [[Main Text](assets/20241012_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20241012_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)].     
 
 # 🔍 Work in Progess
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Food system transformation is key to achieving food security and environmental sustainability in China**. ***In Preparation***. [[Proposal](assets/20230620_Paper 3 proposal_Weitong Long.pdf)].
