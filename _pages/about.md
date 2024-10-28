@@ -22,6 +22,21 @@ In my **Job Market Paper** [[Main Text](assets/20241012_Food waste paper_Weitong
 
 You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240917_CV_Weitong Long.pdf)
 
+# 🔥 News
+- *2024.09*: &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku).
+- *2024.07*: &nbsp;🎉 **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month PhD study at [University of California, Davis](https://www.ucdavis.edu/) (4,000 €).
+- *2024.07*: &nbsp; An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
+- *2024.06*: &nbsp; An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, The Netherlands).
+- *2023.08*: &nbsp; A poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)** (Rennes, France).
+- *2023.07*: &nbsp; An oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)** (University of Graz, Graz, Austria).
+- *2023.06*: &nbsp;🎉 **[Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm)** from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €).
+- *2022.12*: &nbsp;🎉 One co-authored paper published in ***Nature Food (SCI Q1; IF= 23.6)***: [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6).
+- *2022.07*: &nbsp; One second-authored paper published in ***Animal Feed Science and Technology (SCI Q1; IF=2.5)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
+- *2021.04*: &nbsp;🎉 One first-authored paper published in ***Environmental Science & Technology (SCI Q1; IF=10.8)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
+- *2020.12*: &nbsp;🎉 **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the four-year PhD study at [Wageningen University & Research](https://www.wur.nl/) (64,800 €).
+- *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
+- *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
+
 # 🎀 Research Area
 - Sustainable food systems, food-land-water-climate nexus, and climate mitigation 🍽️🐾💧🌎
 - Integrated environmental-economic modelling of food systems 💻
@@ -53,20 +68,14 @@ College of Resources and Environmental Sciences, [China Agricultural university]
 College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China**
 - Dual Bachelor of Arts in English
 
-# 🔥 News
-- *2024.09*: &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku).
-- *2024.07*: &nbsp;🎉 **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month PhD study at [University of California, Davis](https://www.ucdavis.edu/) (4,000 €).
-- *2024.07*: &nbsp; An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
-- *2024.06*: &nbsp; An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, The Netherlands).
-- *2023.08*: &nbsp; A poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)** (Rennes, France).
-- *2023.07*: &nbsp; An oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)** (University of Graz, Graz, Austria).
-- *2023.06*: &nbsp;🎉 **[Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm)** from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €).
-- *2022.12*: &nbsp;🎉 One co-authored paper published in ***Nature Food (SCI Q1; IF= 23.6)***: [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6).
-- *2022.07*: &nbsp; One second-authored paper published in ***Animal Feed Science and Technology (SCI Q1; IF=2.5)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
-- *2021.04*: &nbsp;🎉 One first-authored paper published in ***Environmental Science & Technology (SCI Q1; IF=10.8)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
-- *2020.12*: &nbsp;🎉 **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the four-year PhD study at [Wageningen University & Research](https://www.wur.nl/) (64,800 €).
-- *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
-- *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
+# 👾 Training courses
+**[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) in Resource and Environmental Economics**  
+*University of Graz, Graz, Austria*
+- Transnational and Cascading Climate Risks and Adaptation, 07/2023.     
+
+**Dynamic General Equilibrium Modelling Course**  
+*Victoria University & University of International Business and Economics, Beijing, China*
+- CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021.
 
 # 📝 Publications 
 ***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 28/10/2024): Total=180; H-index=7; I-10=6***
@@ -90,7 +99,35 @@ College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/),
 
 # 🔍 Work in Progess
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Food system transformation is key to achieving food security and environmental sustainability in China**. ***In Preparation***. [[Proposal](assets/20230620_Paper 3 proposal_Weitong Long.pdf)].
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Exploring transformation options in the food-land-water-climate nexus: towards achieving multiple Sustainable Development Goals (SDGs) in China**. ***In Preparation***. [[Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)]. 
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Exploring transformation options in the food-land-water-climate nexus: towards achieving multiple Sustainable Development Goals (SDGs) in China**. ***In Preparation***. [[Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)].
+
+# 💬 Conference Presentations and Seminar Talks  
+- **Conference Presentations** 
+1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation to be delivered at the **[29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.               
+2) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)**, Leeuwarden, Fryslân, The Netherlands.                       
+3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (05/2024). The asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability. Oral presentation delivered at the **9th Sino-Dutch Agriculture Green Development (AGD) Symposium**, Wageningen University & Research, Wageningen, The Netherlands.                 
+4) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (08/2023). Integrated Environmental-economic modelling of sustainable food systems in China. Poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)**, Rennes, France.                        
+5) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2023). Integrated Environmental-economic modelling of sustainable food systems in China. Oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)**, University of Graz, Graz, Austria.                   
+6) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the **7th Sino-Dutch AGD Symposium**, Wageningen University & Research, Wageningen, The Netherlands.                           
+7) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the **Wageningen School of Social Sciences (WASS) PhD Day**, Wageningen University & Research, Wageningen, The Netherlands.
+
+- **Seminar Talks** 
+1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (04/2024). Quantifying the environmental and economic impacts of upcycling food waste in China's monogastric livestock production: a general equilibrium approach. Oral presentation delivered at the EconMonday Weekly Lunch seminar, Wageningen University & Research, Wageningen, The Netherlands.                         
+2) **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. Oral presentation delivered at the Plant Nutrition Weekly Seminar, China Agricultural University, Beijing, China (Online).                      
+3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2023). Exploring options for sustainable food systems in China: An integrated environmental-economic modelling approach. Oral presentation delivered at the EconMonday Weekly Lunch seminar, Wageningen University & Research, Wageningen, The Netherlands.               
+4) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (11/2022). The global environmental consequences of adjustments in the food systems in China. Oral presentation delivered at the EconMonday Weekly Lunch seminar, Wageningen University & Research, Wageningen, The Netherlands.
+
+# 🏆 Grants and Awards
+- *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from WASS (4,000 €; PI).
+- *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
+- *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €; PI)
+- *2021.02*: Educational backpack for taking courses and attending conferences from WASS (3,500 €; PI)
+- *2020.12*: Research Grant from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
+- *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €; PI)
+- *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China)
+- *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%)
+- *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%)
+- *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%)                    
 
 # 👩‍🏫 Teaching and Mentoring
 During my PhD studies at Wageningen University & Research, I have been acting as the teaching assistant for the Master-level courses (Principles of climate change economics and policy, 2022; Economic modelling of sustainability challenges, 2023 & 2024) and supervising Master's thesis (2023 & 2024). 
@@ -118,43 +155,13 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 
 # 💡 Academic Services
 **Conference Parallel Session Chair and Discussant**
-- [The 29th Anuual Conference of EAERE](http://www.eaere-conferences.org/index.php?y=2024) in the session of  “Theory models”, 07/2024.  
+- [The 29th Anuual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024) in the session of  “Theory models”, 07/2024.  
 
 **Conference Abstract Reviewer**
 - [The 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 02/2024.  
 
 **Conference Organising Committee**
 - The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums, 02/2023.  
-
-# 💬 Conference Presentations      
-1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation to be delivered at the **[29th Annual Conference of EAERE](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.                 
-2) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation delivered at the **[III ECGIC](https://www.wetsus.nl/ecgic-2024/)**, Leeuwarden, Fryslân, The Netherlands.                       
-3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (05/2024). The asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability. Oral presentation delivered at the **9th Sino-Dutch Agriculture Green Development (AGD) Symposium**, Wageningen University & Research, Wageningen, The Netherlands.                 
-4) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (08/2023). Integrated Environmental-economic modelling of sustainable food systems in China. Poster presentation delivered at the **[XVII EAAE Congress](https://eaae2023.colloque.inrae.fr/)**, Rennes, France.                        
-5) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2023). Integrated Environmental-economic modelling of sustainable food systems in China. Oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)**, University of Graz, Graz, Austria.                   
-6) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the **7th Sino-Dutch AGD Symposium**, Wageningen University & Research, Wageningen, The Netherlands.                           
-7) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the **WASS PhD Day**, Wageningen University & Research, Wageningen, The Netherlands.                       
-
-# 👾 Training courses
-**[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) in Resource and Environmental Economics**  
-*University of Graz, Graz, Austria*
-- Transnational and Cascading Climate Risks and Adaptation, 07/2023.     
-
-**Dynamic General Equilibrium Modelling Course**  
-*Victoria University & University of International Business and Economics, Beijing, China*
-- CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021. 
-
-# 🏆 Grants and Awards
-- *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €; PI).
-- *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
-- *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €; PI)
-- *2021.02*: Educational backpack for taking courses and attending conferences from WASS (3,500 €; PI)
-- *2020.12*: Research Grant from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
-- *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €; PI).
-- *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
-- *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 
-- *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%). 
-- *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%). 
 
 # 💻 Skills
 - **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), R (intermediate).
