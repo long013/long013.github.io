@@ -70,7 +70,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 
 # 👾 Training courses
 **University of Graz, Graz, Austria**                
-*[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) in Resource and Environmental Economics*       
+*[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) summer school*       
 - Transnational and Cascading Climate Risks and Adaptation, 07/2023.     
 
 **Victoria University & University of International Business and Economics, Beijing, China**                      
