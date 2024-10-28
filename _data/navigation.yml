@@ -2,6 +2,9 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
     
   - title: "Research Area"
     url: "/#-research-area" 
@@ -9,8 +12,8 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Training courses"
+    url: "/#-training-courses"
 
   - title: "Publications"
     url: "/#-publications"
@@ -21,20 +24,17 @@ main:
   - title: "Work in Progess"
     url: "/#-work-in-progess"
 
+  - title: "Conference Presentations and Seminar Talks"
+    url: "/#-conference-presentations-and-seminar-talks"
+
+  - title: "Grants and Awards"
+    url: "/#-grants-and-awards"
+
   - title: "Teaching and Mentoring"
     url: "/#-teaching-and-mentoring"
 
   - title: "Academic Services"
     url: "/#-academic-services"
-
-  - title: "Conference Presentations"
-    url: "/#-conference-presentations"
-
-  - title: "Training courses"
-    url: "/#-training-courses"
-
-  - title: "Grants and Awards"
-    url: "/#-grants-and-awards"
 
   - title: "Skills"
     url: "/#-skills"
