@@ -133,23 +133,23 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 During my PhD studies at Wageningen University & Research, I have been acting as the teaching assistant for the Master-level courses (Principles of climate change economics and policy, 2022; Economic modelling of sustainability challenges, 2023 & 2024) and supervising Master's thesis (2023 & 2024).               
 
 **ENR32806: Economic Modelling of Sustainability Challenges (2023 & 2024 Spring)**                            
-**Wageningen University & Research, Wageningen, The Netherlands**                 
+*Wageningen University & Research, Wageningen, The Netherlands*                 
 - Assisted in teaching ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS) with Dr. Xueqin Zhu and Dr. Jack Peerlings
 - Organised tutorials, provided support to master students with modelling and coding inquiries, and completed grading assignments
 
 **ENR22806: Principles of Climate Change Economics and Policy (2022 Winter)**                          
-**Wageningen University & Research, Wageningen, The Netherlands**                   
+*Wageningen University & Research, Wageningen, The Netherlands*                   
 - Assisted in teaching ENR22806: Principles of Climate Change Economics and Policy (Master level, 6 ECTS ) with Dr. Xueqin Zhu and Dr. Ina Möller
 - Provided feedback on literature review papers of master students and completed grading assignments
 
 **Co-supervisor of Master Thesis (03/2022-05/2024)**	               
-**Wageningen University & Research, Wageningen, The Netherlands**             
+*Wageningen University & Research, Wageningen, The Netherlands*             
 - Co-supervised Jia Zhou with Dr. Xueqin Zhu on the master thesis of "Exploring optimal cover crop management practice in China Loess Plateau by model simulation and mathematical programming”
 - Co-supervised Huangshu Zhao with Dr. Hans-Peter Weikard on the master thesis of "Optimising county-level manure redistribution in Handan, China to balance economic and environmental benefits”
 - Co-supervised Kehan Qiu with Dr. Rolf Groeneveld on the master thesis of "A computable general equilibrium model for evaluating the economic impact of biofuel policy in the Netherlands”
 
 **Chair of Master Thesis Ring (01/2022-12/2022)**	    
-**Wageningen University & Research, Wageningen, The Netherlands**                       
+*Wageningen University & Research, Wageningen, The Netherlands*                       
 - Organised weekly sessions to help master students improve the clarity and conciseness of their thesis
 - Facilitated constructive peer feedback to enhance the quality of master students' written work
 
