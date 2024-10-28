@@ -18,7 +18,7 @@ With over 6+ years of experience as a Quantitative researcher and economist, I s
 
 I have published 10 scientific papers in peer-reviewed journals, including two first-authored papers, one published in **Environmental Science & Technology (SCI Q1; IF= 10.8)** and the other in **Sustainable Production and Consumption (SCI & SSCI Q1, IF=10.9)**, along with a co-authored paper published in **Nature Food (SCI Q1; IF=23.6)**. For a full list of my publications, please check on [Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl).
 
-In my **Job Market Paper** [[Main Text](assets/20240914_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20240914_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)], I highlighted that a modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security. 
+In my **Job Market Paper** [[Main Text](assets/20241012_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20241012_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)], I highlighted that a modest mitigation target could address rebound effects of upcycling food waste as feed in China while safeguarding global food security. 
 
 You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240917_CV_Weitong Long.pdf)
 
