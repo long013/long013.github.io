@@ -33,7 +33,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - *2022.12*: &nbsp;🎉 One co-authored paper published in ***Nature Food (SCI Q1; IF= 23.6)***: [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6).
 - *2022.07*: &nbsp; One second-authored paper published in ***Animal Feed Science and Technology (SCI Q1; IF=2.5)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
 - *2021.04*: &nbsp;🎉 One first-authored paper published in ***Environmental Science & Technology (SCI Q1; IF=10.8)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
-- *2020.12*: &nbsp;🎉 **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the four-year PhD study at [Wageningen University & Research](https://www.wur.nl/) (64,800 €; PI) and **[Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)** from The Sino-Dutch Agriculture Green Development (AGD) PhD program for data collection (8,300 €; PI).
+- *2020.12*: &nbsp;🎉 **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the four-year PhD study at [Wageningen University & Research](https://www.wur.nl/) (48,600 €; PI) and **[Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)** from The Sino-Dutch Agriculture Green Development (AGD) PhD program for data collection (8,300 €; PI).
 - *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
@@ -48,7 +48,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - **Supervisor**: Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program**: [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
 - **Dissertation**: *Towards sustainable food system in China: transformation options and their connections to the food-land-water-climate nexus* [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
-- **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €)
+- **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (48,600 €) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €)
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, United States**                  
 *2024.10 - 2025.01 Visiting PhD Student*            
@@ -121,7 +121,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €; PI)
 - *2021.02*: Educational backpack for taking courses and attending conferences from WASS (3,500 €; PI)
 - *2020.12*: Research Grant from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
-- *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €; PI)
+- *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (48,600 €; PI)
 - *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China)
 - *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%)
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%)
