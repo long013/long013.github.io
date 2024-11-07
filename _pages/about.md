@@ -63,10 +63,8 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - **Honor**: Awarded for the [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Top 1% best master thesis in China)
                            
 **College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China**                
-*2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment*               
-*2014.09 - 2018.06 Dual Bachelor of Arts in English*               
-- **Supervisor**: Prof. Dr. [Yunxiang Huang](https://zyxy.hunau.edu.cn/szll_9627/nyzyyhjx_9628/js_9661/202303/t20230321_379844.html)
-- **Dissertation**: *Attribution of Typical Dryland Soil in Chenzhou to Soil Systematic Classification in China*
+*2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment*                             
+- **Dual Bachelor**: Dual Bachelor of Arts in English
 
 # 👾 Training courses
 **University of Graz, Graz, Austria**                
