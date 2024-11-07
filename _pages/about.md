@@ -52,7 +52,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), California, United States**                  
 *2024.10 - 2025.01 Visiting PhD Student*            
-- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
+- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano), Dr. Luis Garcia Covarrubias, and Dr. Karl-Friedrich Boy
 - **Honor**: Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €)
                      
 **College of Resources and Environmental Sciences, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China**                    
