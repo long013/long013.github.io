@@ -47,7 +47,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 *2020.09 - 2025.09 (Expected) PhD Candidate of Economics in Environmental and Natural Resource Economics*               
 - **Supervisor**: Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program**: [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
-- **Dissertation**: *Integrated environmental-economic modelling of sustainable food systems in China* [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
+- **Dissertation**: *Towards sustainable food system in China: transformation options and their connections to the food-land-water-climate nexus* [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
 - **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €)
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, United States**                  
