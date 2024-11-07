@@ -50,7 +50,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - **Dissertation**: *Integrated environmental-economic modelling of sustainable food systems in China* [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
 - **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €)
                  
-**School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), California, United States**                  
+**School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, United States**                  
 *2024.10 - 2025.01 Visiting PhD Student*            
 - **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano), Dr. [Luis Garcia Covarrubias](https://www.luisgarciacovarrubias.com/), and [Karl-Friedrich Boy](https://www.linkedin.com/in/karl-friedrich-boy-a02149254/?trk=public_profile_browsemap&originalSubdomain=de)
 - **Honor**: Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €)
