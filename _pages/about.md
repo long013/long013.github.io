@@ -37,7 +37,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
-# 🎀 Research Area
+# 🎀 Research Interests
 - Sustainable food systems, food-land-water-climate nexus, and climate mitigation 🍽️🐾💧🌎
 - Integrated environmental-economic modelling of food systems 💻
 - Environmental impact assessment of food systems 🧩
