@@ -68,12 +68,12 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 
 # 👾 Training courses
 **University of Graz, Graz, Austria**                
-*[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) summer school*       
-- Transnational and Cascading Climate Risks and Adaptation, 07/2023.     
+*2023.07 [European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) summer school*       
+- Transnational and Cascading Climate Risks and Adaptation     
 
 **Victoria University & University of International Business and Economics, Beijing, China**                      
-*Dynamic General Equilibrium Modelling Course*        
-- CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021.
+*2021.07 Dynamic General Equilibrium Modelling Course*        
+- CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications 
 ***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 06/11/2024): Total=181; H-index=7; I-10=6***
