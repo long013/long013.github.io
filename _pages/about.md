@@ -20,7 +20,7 @@ I have published 10 scientific papers in peer-reviewed journals, including two f
 
 In my **Job Market Paper** [[Full Paper](assets/DEARE DAY 2025_Weitong Long-merged-compressed.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)], I highlighted that rebound effects may undermine benefits of upcycling low-opportunity-cost feed as animal feed in China, and a modest mitigation target could address these rebound effects in China while safeguarding global food security. 
 
-You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/Weitong_Long_CV_Full.pdf)
+You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weitong_Long_CV_Full.pdf) and [efficient](assets/Weitong_Long_CV.pdf) CV here.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku).
