@@ -158,7 +158,7 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 **Conference Abstract Reviewer**
 - [The 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 02/2024.  
 
-**Conference Organising Committee**
+**Conference Co-organiser**
 - The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums, 02/2023.  
 
 # 💻 Skills
