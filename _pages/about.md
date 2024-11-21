@@ -80,7 +80,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 
 - **Peer-Reviewed Journal Articles (First Author)**   
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku). ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004                          
-2) **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451. DOI: 10.1016/j.spc.2024.09.004         
+2) **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451. . DOI: 10.1021/acs.est.0c08359         
    
 - **Peer-Reviewed Journal Articles (Other)**      
 1) Tan, M., Hou, Y., Zhang, T., Ma, Y., **Long, W.**, Gao, C., ... & Oenema, O. (2023). [**Relationships between livestock density and soil phosphorus contents–County and farm level analyses**](https://www.sciencedirect.com/science/article/pii/S0341816222008037). ***Catena (SCI Q1; IF=5.4)***, 222, 106817. DOI: 10.1016/j.catena.2022.106817                                                
