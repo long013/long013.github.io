@@ -23,7 +23,7 @@ In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong
 You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weitong_Long_CV_Full.pdf) and [efficient](assets/Weitong_Long_CV.pdf) CV here.
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku).
+- *2024.09*: &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616).
 - *2024.07*: &nbsp;🎉 **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month PhD study at [University of California, Davis](https://www.ucdavis.edu/) (4,000 €; PI).
 - *2024.07*: &nbsp; An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
 - *2024.06*: &nbsp; An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, The Netherlands).
@@ -79,7 +79,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 ***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): November 21, 2024): Total=187; H-index=7; I-10=6***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
-1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://authors.elsevier.com/c/1jmUL8Mw7o92Ku). ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004                          
+1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616). ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004   
 2) **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451. . DOI: 10.1021/acs.est.0c08359         
    
 - **Peer-Reviewed Journal Articles (Other)**      
