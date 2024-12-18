@@ -22,6 +22,11 @@ In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong
 
 You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weitong_Long_CV_Full.pdf) and [efficient](assets/Weitong_Long_CV.pdf) CV here.
 
+# 🎀 Research Interests
+- Sustainable food systems, food-land-climate-air quality nexus, and climate mitigation 🍽️🐾💧🌎
+- Integrated environmental-economic modelling of food systems 💻
+- Environmental impact assessment of food systems 🧩
+
 # 🔥 News
 - *2024.10*: &nbsp;🎉 Started my fourh-month of research as a visiting PhD student at **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/)** in Davis, the United States under the supervision of Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano).
 - *2024.09*: &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616).
@@ -37,11 +42,6 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - *2020.12*: &nbsp;🎉 Awarded for the **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) (48,600 €; PI) and **[Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)** from the Sino-Dutch Agriculture Green Development (AGD) PhD program (8,300 €; PI) for PhD study at [Wageningen University & Research](https://www.wur.nl/) in Wageningen, the Netherlands.
 - *2020.08*: &nbsp;🎉 Awarded for the **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
-
-# 🎀 Research Interests
-- Sustainable food systems, food-land-climate-air quality nexus, and climate mitigation 🍽️🐾💧🌎
-- Integrated environmental-economic modelling of food systems 💻
-- Environmental impact assessment of food systems 🧩
 
 # 📖 Education           
 **Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, the Netherlands**              
@@ -100,8 +100,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Food system transformation is key to achieving food security and environmental sustainability in China**. ***In Preparation***. [[Proposal](assets/20230620_Paper 3 proposal_Weitong Long.pdf)].
 - **Long, W.**, Peña-Lévano, L. M., Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Exploring transformation options in the food-land-water-climate nexus: towards achieving multiple Sustainable Development Goals in China**. ***In Preparation***. [[Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)].
 
-# 💬 Conference Presentations and Seminar Talks  
-- **Conference Presentations**                     
+# 💬 Conference Presentations                   
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation delivered at the **[29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.               
 2) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)**, Leeuwarden, Fryslân, the Netherlands.                       
 3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (05/2024). The asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability. Oral presentation delivered at the **9th Sino-Dutch Agriculture Green Development (AGD) Symposium**, Wageningen University & Research, Wageningen, the Netherlands.                 
@@ -110,7 +109,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 6) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the **7th Sino-Dutch AGD Symposium**, Wageningen University & Research, Wageningen, the Netherlands.                           
 7) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the **Wageningen School of Social Sciences (WASS) PhD Day**, Wageningen University & Research, Wageningen, the Netherlands.
 
-- **Seminar Talks**                 
+# 🎙️ Seminar Talks                 
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (04/2024). Quantifying the environmental and economic impacts of upcycling food waste in China's monogastric livestock production: a general equilibrium approach. Oral presentation delivered at the **EconMonday Weekly Lunch Seminar**, Wageningen University & Research, Wageningen, the Netherlands.                         
 2) **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. Oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).                      
 3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2023). Exploring options for sustainable food systems in China: An integrated environmental-economic modelling approach. Oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.               
@@ -128,9 +127,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%)
 - *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%)                    
 
-# 👩‍🏫 Teaching and Mentoring
-During my PhD studies at Wageningen University & Research, I have been acting as the teaching assistant for the Master-level courses (Principles of climate change economics and policy, 2022; Economic modelling of sustainability challenges, 2023 & 2024) and supervising Master's thesis (2023 & 2024).               
-
+# 👩‍🏫 Teaching Experience          
 **ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS)**                            
 *2023 & 2024 Spring Wageningen University & Research, Wageningen, The Netherlands*                 
 - Assisted in teaching ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS) with Dr. Xueqin Zhu and Dr. Jack Peerlings
@@ -141,6 +138,7 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 - Assisted in teaching ENR22806: Principles of Climate Change Economics and Policy (Master level, 6 ECTS ) with Dr. Xueqin Zhu and Dr. Ina Möller
 - Provided feedback on literature review papers of master students and completed grading assignments
 
+# 🪁 Mentoring Experience
 **Co-supervisor of Master Thesis (03/2022-05/2024)**	               
 *Wageningen University & Research, Wageningen, The Netherlands*             
 - Co-supervised Jia Zhou with Dr. Xueqin Zhu on the master thesis of "Exploring optimal cover crop management practice in China Loess Plateau by model simulation and mathematical programming”
@@ -165,5 +163,18 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 # 💻 Skills
 - **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), R (intermediate).
 - **Modelling**: Applied general equilibrium (AGE) modelling, life cycle assessment (LCA), input-output (I-O) analysis, material flow analysis (MFA), and meta-analysis.
-- **Software**: ArcGIS, Simapro, Github, Latex, and Microsoft Office.
-- **Languages**: Native to Mandarin Chinese. Strong reading, writing and speaking competencies in English. 
+
+# 💻 Profession Association Memberships
+- American Economic Association (AEA)
+- Agricultural & Applied Economics Association (AAEA)
+- Association of Environmental and Resource Economists (AERE)
+- European Economic Association (EEA)
+- European Association of Agricultural Economists (EAAE)
+- European Association of Environmental and Resource Economists (EAERE)
+- International Association of Agricultural Economists (IAAE)
+- International Food And Agribusiness Management Association (IFAMA)
+- International Society for Ecological Economics (ISEE)
+- International Society for Industrial Ecology (ISIE)
+- American Geosciences Union (AGU)
+- European Geosciences Union (EGU)
+- Global Trade Analysis Project (GTAP) Network
