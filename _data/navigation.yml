@@ -3,11 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-    
   - title: "Research Interests"
     url: "/#-research-interests" 
+    
+  - title: "News"
+    url: "/#-news"
     
   - title: "Education"
     url: "/#-education"
@@ -24,17 +24,26 @@ main:
   - title: "Work in Progess"
     url: "/#-work-in-progess"
 
-  - title: "Conference Presentations and Seminar Talks"
-    url: "/#-conference-presentations-and-seminar-talks"
+  - title: "Conference Presentations"
+    url: "/#-conference-presentations"
+
+  - title: "Seminar Talks"
+    url: "/#-seminar-talks"
 
   - title: "Grants and Awards"
     url: "/#-grants-and-awards"
 
-  - title: "Teaching and Mentoring"
-    url: "/#-teaching-and-mentoring"
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
+
+  - title: "Mentoring Experience"
+    url: "/#-mentoring-experience"
 
   - title: "Academic Services"
     url: "/#-academic-services"
 
   - title: "Skills"
     url: "/#-skills"
+
+  - title: "Profession Association Memberships"
+    url: "/#-profession-association-memberships"
