@@ -23,7 +23,7 @@ In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong
 You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weitong_Long_CV_Full.pdf) and [efficient](assets/Weitong_Long_CV.pdf) CV here.
 
 # 🎀 Research Interests
-- Sustainable food systems, food-land-climate-air quality nexus, and climate mitigation 🍽️🐾💧🌎
+- Sustainable food systems, food-land-climate-air quality nexus, and climate mitigation 🍽️🐾🌎☁️
 - Integrated environmental-economic modelling of food systems 💻
 - Environmental impact assessment of food systems 🧩
 
