@@ -164,7 +164,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), R (intermediate).
 - **Modelling**: Applied general equilibrium (AGE) modelling, life cycle assessment (LCA), input-output (I-O) analysis, material flow analysis (MFA), and meta-analysis.
 
-# 💻 Profession Association Memberships
+# 👧 Profession Association Memberships
 - American Economic Association (AEA)
 - Agricultural & Applied Economics Association (AAEA)
 - Association of Environmental and Resource Economists (AERE)
