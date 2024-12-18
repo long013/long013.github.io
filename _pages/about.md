@@ -77,7 +77,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - **Course**: CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications 
-***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): December 4, 2024): Total=194; H-index=7; I-10=6***
+***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): December 18, 2024): Total=195; H-index=7; I-10=6***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616). ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004   
