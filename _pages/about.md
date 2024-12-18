@@ -98,7 +98,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 
 # 🔍 Work in Progess
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Food system transformation is key to achieving food security and environmental sustainability in China**. ***In Preparation***. [[Proposal](assets/20230620_Paper 3 proposal_Weitong Long.pdf)].
-- **Long, W.**, Peña-Lévano, L. M., Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Exploring transformation options in the food-land-water-climate nexus: towards achieving multiple Sustainable Development Goals in China**. ***In Preparation***. [[Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)].
+- **Long, W.**, Peña-Lévano, L. M., Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Exploring transformation options in the food-land-climate-air quality nexus: towards achieving multiple Sustainable Development Goals in China**. ***In Preparation***. [[Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)].
 
 # 💬 Conference Presentations                   
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation delivered at the **[29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.               
