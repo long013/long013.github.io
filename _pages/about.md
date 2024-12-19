@@ -47,7 +47,7 @@ In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong
 *2020.09 - 2025.10 (Expected) PhD Candidate of Economics in Environmental Economics and Natural Resources*               
 - **Supervisor**: Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program**: [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
-- **Dissertation**: *Towards sustainable food system in China: transformation options and their connections to the food-land-climate-air quality nexus* [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
+- **Dissertation**: *Towards sustainable food system in China: transformation options and their connections to the food-land-climate nexus* [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
 - **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (48,600 €; PI) for PhD research and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program (8,300 €; PI) for data collection
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**
