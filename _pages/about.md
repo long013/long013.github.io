@@ -67,7 +67,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 *2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment*                             
 - **Dual Bachelor**: Dual Bachelor of Arts in English
 
-# 👾 Training courses
+# 👾 Training Courses
 **[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) summer school**                
 *2023.07 University of Graz, Graz, Austria*       
 - **Course**: Transnational and Cascading Climate Risks and Adaptation     
@@ -109,7 +109,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 6) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the **7th Sino-Dutch AGD Symposium**, Wageningen University & Research, Wageningen, the Netherlands.                           
 7) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the **Wageningen School of Social Sciences (WASS) PhD Day**, Wageningen University & Research, Wageningen, the Netherlands.
 
-# 🎙️ Seminar Talks                 
+# 🎙️ Seminar Talks
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (04/2024). Quantifying the environmental and economic impacts of upcycling food waste in China's monogastric livestock production: a general equilibrium approach. Oral presentation delivered at the **EconMonday Weekly Lunch Seminar**, Wageningen University & Research, Wageningen, the Netherlands.                         
 2) **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. Oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).                      
 3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2023). Exploring options for sustainable food systems in China: An integrated environmental-economic modelling approach. Oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.               
