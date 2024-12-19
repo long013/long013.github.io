@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weitong Long"
-description              : "PhD candidate, Environmental Economics and Natural Resources Group (ENR) group"
+description              : "PhD candidate, Environmental Economics and Natural Resources Group (ENR)"
 repository               : "weitong-long.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "WeitongLong"
+  twitter          : "@WeitongLong"
   vine             :
   weibo            :
   xing             :
