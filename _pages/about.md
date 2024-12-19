@@ -22,7 +22,7 @@ I have published 10 scientific papers in peer-reviewed journals, including two f
 In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong Long.pdf)] [[Supplementary information](assets/20241118_Supplementary information_Food waste paper_Weitong Long.pdf)] [[Slides](assets/20240703_Food waste slides_Weitong Long.pdf)] that is under review at **Nature Food**, I highlighted that rebound effects may undermine benefits of upcycling food waste and food processing by-products as animal feed in China, and had significant knock-on effects beyond the agricultural sectors, thereby influencing sectoral employment, gross domestic product, and household welfare. Implementing appropriate emission taxes provides an opportunity to absorb the rebound effects on emissions but may negatively affect food security indicators and shift emission-intensive sectors from China to its trading partners, depending on the height of the taxes. 
 
 # 🎀 Research Interests
-- Sustainable food systems, food-land-climate nexus, and climate mitigation 🍽️🐾🌎☁️
+- Sustainable food systems, food-land-climate nexus, and climate mitigation 🍽️🐾🌎
 - Integrated environmental-economic modelling of food systems 💻
 - Environmental impact assessment of food systems 🧩
 
