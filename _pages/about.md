@@ -128,7 +128,8 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%)
 - *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%)                    
 
-# 👩‍🏫 Teaching Experience
+# 👩‍🏫 Teaching and Mentoring Experience
+- **Teaching Experience** 
 **ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS)**                            
 *2023 & 2024 Spring Wageningen University & Research, Wageningen, the Netherlands*                 
 - Assisted in teaching ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS) with Dr. Xueqin Zhu and Dr. Jack Peerlings
@@ -139,7 +140,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - Assisted in teaching ENR22806: Principles of Climate Change Economics and Policy (Master level, 6 ECTS ) with Dr. Xueqin Zhu and Dr. Ina Möller
 - Provided feedback on literature review papers of master students and completed grading assignments
 
-# 🪁 Mentoring Experience
+- **Mentoring Experience** 
 **Co-supervisor of Master Thesis (03/2022-05/2024)**	               
 *Wageningen University & Research, Wageningen, the Netherlands*             
 - Co-supervised Jia Zhou with Dr. Xueqin Zhu on the master thesis of "Exploring optimal cover crop management practice in China Loess Plateau by model simulation and mathematical programming”
