@@ -109,13 +109,13 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 6) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the **7th Sino-Dutch AGD Symposium**, Wageningen University & Research, Wageningen, the Netherlands.                           
 7) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the **Wageningen School of Social Sciences (WASS) PhD Day**, Wageningen University & Research, Wageningen, the Netherlands.
 
-# 💬 Seminar Talks           
+# 🎤 Seminar Talks           
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (04/2024). Quantifying the environmental and economic impacts of upcycling food waste in China's monogastric livestock production: a general equilibrium approach. Oral presentation delivered at the **EconMonday Weekly Lunch Seminar**, Wageningen University & Research, Wageningen, the Netherlands.                         
 2) **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. Oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).                      
 3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2023). Exploring options for sustainable food systems in China: An integrated environmental-economic modelling approach. Oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.               
 4) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (11/2022). The global environmental consequences of adjustments in the food systems in China. Oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.
 
-# 🎤 Grants and Awards
+# 🏆 Grants and Awards
 - *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from WASS for the four-month of research at University of California, Davis (4,000 €; PI)
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
 - *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €; PI)
