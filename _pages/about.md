@@ -115,7 +115,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2023). Exploring options for sustainable food systems in China: An integrated environmental-economic modelling approach. Oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.               
 4) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (11/2022). The global environmental consequences of adjustments in the food systems in China. Oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.
 
-# 🏆 Grants and Awards
+# 🎤 Grants and Awards
 - *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from WASS for the four-month of research at University of California, Davis (4,000 €; PI)
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
 - *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €; PI)
@@ -138,7 +138,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - Assisted in teaching ENR22806: Principles of Climate Change Economics and Policy (Master level, 6 ECTS ) with Dr. Xueqin Zhu and Dr. Ina Möller
 - Provided feedback on literature review papers of master students and completed grading assignments
 
-# 👩‍🏫 Mentoring Experience
+# 🪁 Mentoring Experience
 **Co-supervisor of Master Thesis (03/2022-05/2024)**	               
 *Wageningen University & Research, Wageningen, the Netherlands*             
 - Co-supervised Jia Zhou with Dr. Xueqin Zhu on the master thesis of "Exploring optimal cover crop management practice in China Loess Plateau by model simulation and mathematical programming”
