@@ -24,14 +24,20 @@ main:
   - title: "Work in Progress"
     url: "#-work-in-progess"
 
-  - title: "Conference Presentations and Seminar Talks"
-    url: "#-conference-presentations-and-seminar-talks"
+  - title: "Conference Presentations"
+    url: "#-conference-presentations"
+
+  - title: "Seminar Talks"
+    url: "#-seminar-talks"
 
   - title: "Grants and Awards"
     url: "#-grants-and-awards"
 
-  - title: "Teaching and Mentoring Experience"
-    url: "#-teaching-and-mentoring-experience"
+  - title: "Teaching Experience"
+    url: "#-teaching-experience"
+
+  - title: "Mentoring Experience"
+    url: "#-mentoring-experience"
 
   - title: "Academic Services"
     url: "#-academic-services"
