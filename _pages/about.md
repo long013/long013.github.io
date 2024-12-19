@@ -79,7 +79,7 @@ In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong
 ***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): December 19, 2024): Total=195; H-index=7; I-10=6***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
-1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616). In: ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004
+1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616). In: ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004  
 2) **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). In: ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451. . DOI: 10.1021/acs.est.0c08359         
    
 - **Peer-Reviewed Journal Articles (Other)**      
