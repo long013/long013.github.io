@@ -100,8 +100,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Food system transformation is key to achieving food security and environmental sustainability in China**. ***In Preparation***. [[Proposal](assets/20230620_Paper 3 proposal_Weitong Long.pdf)].
 - **Long, W.**, Peña-Lévano, L. M., Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2024). **Exploring transformation options in the food-land-climate-air quality nexus: towards achieving multiple Sustainable Development Goals in China**. ***In Preparation***. [[Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)].
 
-# 💬 Conference Presentations and Seminar Talks
-- **Conference Presentations**             
+# 💬 Conference Presentations            
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation delivered at the **[29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.               
 2) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)**, Leeuwarden, Fryslân, the Netherlands.                       
 3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (05/2024). The asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability. Oral presentation delivered at the **9th Sino-Dutch Agriculture Green Development (AGD) Symposium**, Wageningen University & Research, Wageningen, the Netherlands.                 
@@ -110,7 +109,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 6) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the **7th Sino-Dutch AGD Symposium**, Wageningen University & Research, Wageningen, the Netherlands.                           
 7) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the **Wageningen School of Social Sciences (WASS) PhD Day**, Wageningen University & Research, Wageningen, the Netherlands.
 
-- **Seminar Talks**            
+# 💬 Seminar Talks           
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (04/2024). Quantifying the environmental and economic impacts of upcycling food waste in China's monogastric livestock production: a general equilibrium approach. Oral presentation delivered at the **EconMonday Weekly Lunch Seminar**, Wageningen University & Research, Wageningen, the Netherlands.                         
 2) **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. Oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).                      
 3) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2023). Exploring options for sustainable food systems in China: An integrated environmental-economic modelling approach. Oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.               
@@ -128,8 +127,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%)
 - *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%)                    
 
-# 👩‍🏫 Teaching and Mentoring Experience
-- **Teaching Experience** 
+# 👩‍🏫 Teaching Experience
 **ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS)**                            
 *2023 & 2024 Spring Wageningen University & Research, Wageningen, the Netherlands*                 
 - Assisted in teaching ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS) with Dr. Xueqin Zhu and Dr. Jack Peerlings
@@ -140,7 +138,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weit
 - Assisted in teaching ENR22806: Principles of Climate Change Economics and Policy (Master level, 6 ECTS ) with Dr. Xueqin Zhu and Dr. Ina Möller
 - Provided feedback on literature review papers of master students and completed grading assignments
 
-- **Mentoring Experience** 
+# 👩‍🏫 Mentoring Experience
 **Co-supervisor of Master Thesis (03/2022-05/2024)**	               
 *Wageningen University & Research, Wageningen, the Netherlands*             
 - Co-supervised Jia Zhou with Dr. Xueqin Zhu on the master thesis of "Exploring optimal cover crop management practice in China Loess Plateau by model simulation and mathematical programming”
