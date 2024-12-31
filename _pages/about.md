@@ -158,7 +158,7 @@ In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong
 - [The 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 02/2024.  
 
 **Conference Co-organiser**
-- The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums, 02/2023.  
+- The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums, 06/2022 & 02/2023.  
 
 # 💻 Skills
 - **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), R (intermediate).
