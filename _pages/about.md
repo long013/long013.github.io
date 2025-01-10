@@ -52,7 +52,7 @@ In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**
 *2024.10 - 2025.01 Visiting PhD Student*            
-- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano), Dr. [Luis Garcia Covarrubias](https://www.luisgarciacovarrubias.com/), and [Karl-Friedrich Boy](https://www.linkedin.com/in/karl-friedrich-boy-a02149254/?trk=public_profile_browsemap&originalSubdomain=de)
+- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano), Dr. [Luis Garcia Covarrubias](https://www.luisgarciacovarrubias.com/), and Dr. [Karl-Friedrich Boy](https://www.linkedin.com/in/karl-friedrich-boy-a02149254/?trk=public_profile_browsemap&originalSubdomain=de)
 - **Honor**: Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €; PI) for four-month of research
                      
 **College of Resources and Environmental Sciences, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China**                    
@@ -76,7 +76,7 @@ In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong
 - **Course**: CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): December 19, 2024): Total=195; H-index=7; I-10=6***
+***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): January 10, 2025): Total=198; H-index=7; I-10=6***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616). In: ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004  
