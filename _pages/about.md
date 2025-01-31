@@ -155,7 +155,7 @@ In my **Job Market Paper** [[Main Text](assets/20241118_Food waste paper_Weitong
 - [The 29th Anuual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024) in the session of  “Theory models”, 07/2024.  
 
 **Conference Abstract Reviewer**
-- [The 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 02/2024.  
+- [The 2024 and 2025 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 02/2024 & 02/2025.  
 
 **Conference Co-organiser**
 - The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums, 06/2022 & 02/2023.  
