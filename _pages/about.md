@@ -48,7 +48,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 *2020.09 - 2025.10 (Expected) PhD Candidate of Economics in Environmental Economics and Natural Resources*               
 - **Supervisor**: Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program**: [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
-- **Dissertation**: *Towards sustainable food system in China: transformation options and their connections to the food-land-climate nexus* [[Slides](assets/20240910_PhD research outline_Weitong Long.pdf)]
+- **Dissertation**: *Towards sustainable food system in China: transformation options and their connections to the food-land-climate nexus* [[Slides](assets/PhD research outline_Weitong Long.pdf)]
 - **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (48,600 €; PI) for PhD research and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program (8,300 €; PI) for data collection
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**
@@ -97,7 +97,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine benefits of upcycling food waste and food processing by-products as animal feed in China**. ***Revise and Resubmit at Nature Food (SCI Q1; IF=23.6; Job Market Paper)***. [[Main Text](assets/NF_Main text_clean version.pdf)] [[Supplementary information](assets/NF_Supplementary information_clean version.pdf)] [[Slides](assets/20250207_Food waste slides_Weitong Long.pdf)].     
 
 # 🔍 Work in Progess
-- **Long, W.**, Peña-Lévano, L. M., Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Exploring transformation options in the food-land-climate nexus: towards achieving multiple Sustainable Development Goals in China**. ***In Preparation***. [[Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)].
+- **Long, W.**, Peña-Lévano, L. M., Garcia‐Covarrubias L., Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Unintended trade-offs between food security and environmental sustainability: Impacts of China’s dietary shift and afforestation under a stringent climate mitigation policy**. ***In Preparation***. [[Main Text](assets/Food-land-climate nexus paper.pdf)] [[Supplementary information](assets/Food-land-climate nexus paper_Supplementary information.pdf)].
 
 # 💬 Conference Presentations            
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2025, upcoming). Quantifying the environmental and economic impacts of upcycling low-opportunity-cost feed as animal feed: a general equilibrium approach. Oral presentation to be delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm)**, Wageningen, the Netherlands.      
