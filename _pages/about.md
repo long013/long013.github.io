@@ -27,7 +27,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - Environmental impact assessment of food systems 🧩
 
 # 🔥 News
-- *2025.02*: &nbsp;💬 An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop]([http://www.eaere-conferences.org/index.php?y=2024](https://www.wur.nl/en/activity/deare-day-2025-2.htm))** (Wageningen, the Netherlands).
+- *2025.02*: &nbsp;💬 An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm))** (Wageningen, the Netherlands).
 - *2024.10*: &nbsp;😊 Started my four-month of research as a visiting PhD student at **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/)** in Davis, the United States.
 - *2024.09*: &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616).
 - *2024.07*: &nbsp;💰 Awarded for the **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month of research at **[University of California, Davis](https://www.ucdavis.edu/)** (Davis, the United States) (4,000 €; PI).
