@@ -77,7 +77,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - **Course**: CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): March 19, 2025): Total=221; H-index=7; I-10=7***
+***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): March 21, 2025): Total=222; H-index=7; I-10=7***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616). In: ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004  
