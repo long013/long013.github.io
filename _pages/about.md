@@ -53,7 +53,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**
 *2024.10 - 2025.01 Visiting PhD Student*            
-- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano), Dr. [Luis Garcia Covarrubias](https://www.luisgarciacovarrubias.com/), and Dr. [Karl-Friedrich Boy](https://www.linkedin.com/in/karl-friedrich-boy/?originalSubdomain=de)
+- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
 - **Honor**: Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) for four-month of research (4,000 €; PI)
                      
 **College of Resources and Environmental Sciences, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China**                    
