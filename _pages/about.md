@@ -95,7 +95,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
    
 # 📜 Working Papers
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine benefits of upcycling food waste and food processing by-products as animal feed in China**. ***Minor Revision at Nature Food (SCI Q1; IF=23.6; Job Market Paper)***. [[Main Text](assets/NF_Main text_clean version.pdf)] [[Supplementary information](assets/NF_Supplementary information_clean version.pdf)] [[Slides](assets/20250207_Food waste slides_Weitong Long.pdf)].           
-- **Long, W.**, Zhu, X., Oenema, O., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Land-Use Emission Leakage from China’s Dietary Shift and Afforestation Amplifies Food Insecurity and Economic Losses under the 1.5 °C Target**.
+- **Long, W.**, Zhu, X., Oenema, O., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Land-Use Emission Leakage from China’s Dietary Shift and Afforestation Amplifies Food Insecurity and Economic Losses under the 2 °C Target**.
 
 # 💬 Conference Presentations            
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2025, upcoming). Quantifying the environmental and economic impacts of upcycling low-opportunity-cost feed as animal feed: a general equilibrium approach. Oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm)**, Wageningen, the Netherlands.      
