@@ -51,7 +51,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - **Dissertation**: *Towards sustainable food systems in China: transformation options and their connections to the food-land-climate nexus* [[Slides](assets/PhD research outline_Weitong Long.pdf)]
 - **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD research (48,600 €; PI) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
                  
-**School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**
+**School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**     
 *2024.10 - 2025.01 Visiting PhD Student*            
 - **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
 - **Honor**: Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) for four-month of research (4,000 €; PI)
