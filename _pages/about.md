@@ -61,7 +61,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 *2020.09 - 2021.09 Visiting PhD Student*              
 *2018.09 - 2020.06 Master of Agriculture in Plant Nutrition*                                        
 - **Supervisor**: Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) and Associate Prof. Dr. [Hongliang Wang](https://faculty.cau.edu.cn/whl1/)
-- **Dissertation**: *Nitrogen footprint of China’s pig production and feeding mitigation measures*
+- **Dissertation**: *Nitrogen footprint of China’s pig production and mitigation measures through feed management*
 - **Honor**: Awarded for the [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Top 1% best master thesis in China)
                            
 **College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China**                
