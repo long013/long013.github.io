@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!😊 You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weitong_Long_CV_Full.pdf) and [efficient](assets/Weitong_Long_CV.pdf) Curriculum Vitae here. 
+Welcome to my personal website!😊 You can reach me at weitong.long@wur.nl 📧. You can find my [full](assets/Weitong_Long_CV_Full.pdf) and [efficient](assets/Weitong_Long_CV.pdf) Curriculum Vitae here. You can find my Curriculum Vitae in [Chinese](assets/龙维桐_简历.pdf) here. 
 For a full list of my publications, please check on [Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl). 
 
 I am currently a [PhD candidate](https://research.wur.nl/en/persons/weitong-long) from [Environmental Economics and Natural Resources Group (ENR)](https://www.wur.nl/en/research-results/chair-groups/social-sciences/environmental-economics-and-natural-resources-group.htm) at [Wageningen University & Research](https://www.wur.nl/) in Wageningen, the Netherlands. I am supervised by Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema) from [Wageningen University & Research](https://www.wur.nl/), as well as Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) from [China Agricultural university](https://en.cau.edu.cn/). I conducted one-year research as a visiting PhD student at [China Agricultural university](https://en.cau.edu.cn/) in Beijing, China under the supervision of Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) from September 2020 to September 2021. Additionally, I conducted four-month research as a visiting PhD student at [University of California, Davis](https://www.ucdavis.edu/) in Davis, the United States, under the supervision of Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano) from October 2024 to January 2025. 
@@ -27,55 +27,55 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - Environmental impact assessment of food systems 🧩
 
 # 🔥 News
-- *2025.08*: &nbsp;💬 A poster presentation to be delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)** (Bonn, Germany).
-- *2025.02*: &nbsp;💬 An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm))** (Wageningen, the Netherlands).
-- *2024.10*: &nbsp;😊 Started my four-month research as a visiting PhD student at **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/)** in Davis, the United States.
-- *2024.09*: &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616).
-- *2024.07*: &nbsp;💰 Awarded for the **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month of research at **[University of California, Davis](https://www.ucdavis.edu/)** (Davis, the United States) (4,000 €; PI).
-- *2024.07*: &nbsp;💬 An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
-- *2024.06*: &nbsp;💬 An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, the Netherlands).
-- *2023.08*: &nbsp;💬 A poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)** (Rennes, France).
-- *2023.07*: &nbsp;💬 An oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)** (University of Graz, Graz, Austria).
-- *2023.06*: &nbsp;💰 Awarded for the **[Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm)** from the LEB Travel Fund to participate in the **XVII EAAE Congress** (750 €; PI).
-- *2022.12*: &nbsp;🎉 One co-authored paper published in ***Nature Food (SCI Q1; IF= 23.6)***: [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6).
-- *2022.07*: &nbsp;🎉 One second-authored paper published in ***Animal Feed Science and Technology (SCI Q2; IF=2.5)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
-- *2021.04*: &nbsp;🎉 One first-authored paper published in ***Environmental Science & Technology (SCI Q1; IF=10.8)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
-- *2020.12*: &nbsp;💰 Awarded for the **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) (48,600 €; PI) for PhD research and **[Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)** from the Sino-Dutch Agriculture Green Development (AGD) PhD program (8,300 €; PI) for data collection at **[Wageningen University & Research](https://www.wur.nl/)** in Wageningen, the Netherlands.
-- *2020.08*: &nbsp;🏆 Awarded for the **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
-- *2020.02*: &nbsp;🎉 One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
+- *2025.08:* &nbsp;💬 A poster presentation to be delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)** (Bonn, Germany).
+- *2025.02:* &nbsp;💬 An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm))** (Wageningen, the Netherlands).
+- *2024.10:* &nbsp;😊 Started my four-month research as a visiting PhD student at **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/)** in Davis, the United States.
+- *2024.09:* &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=10.9)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616).
+- *2024.07:* &nbsp;💰 Awarded for the **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month of research at **[University of California, Davis](https://www.ucdavis.edu/)** (Davis, the United States) (4,000 €; PI).
+- *2024.07:* &nbsp;💬 An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
+- *2024.06:* &nbsp;💬 An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, the Netherlands).
+- *2023.08:* &nbsp;💬 A poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)** (Rennes, France).
+- *2023.07:* &nbsp;💬 An oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)** (University of Graz, Graz, Austria).
+- *2023.06:* &nbsp;💰 Awarded for the **[Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm)** from the LEB Travel Fund to participate in the **XVII EAAE Congress** (750 €; PI).
+- *2022.12:* &nbsp;🎉 One co-authored paper published in ***Nature Food (SCI Q1; IF= 23.6)***: [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6).
+- *2022.07:* &nbsp;🎉 One second-authored paper published in ***Animal Feed Science and Technology (SCI Q2; IF=2.5)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
+- *2021.04:* &nbsp;🎉 One first-authored paper published in ***Environmental Science & Technology (SCI Q1; IF=10.8)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
+- *2020.12:* &nbsp;💰 Awarded for the **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) (48,600 €; PI) for PhD research and **[Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)** from the Sino-Dutch Agriculture Green Development (AGD) PhD program (8,300 €; PI) for data collection at **[Wageningen University & Research](https://www.wur.nl/)** in Wageningen, the Netherlands.
+- *2020.08:* &nbsp;🏆 Awarded for the **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
+- *2020.02:* &nbsp;🎉 One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
 # 📖 Education
 **Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, the Netherlands**              
 *2020.09 - 2025.12 (Expected) PhD Candidate of Economics in Environmental Economics and Natural Resources*               
-- **Supervisor**: Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
-- **Program**: [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
-- **Dissertation**: *Towards sustainable food systems in China: transformation options and their connections to the food-land-climate nexus* [[Slides](assets/PhD research outline_Weitong Long.pdf)]
-- **Honor**: Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD research (48,600 €; PI) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
+- **Supervisor:** Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
+- **Program:** [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
+- **Dissertation:** *Towards sustainable food systems in China: transformation options and their connections to the food-land-climate nexus* [[Slides](assets/PhD research outline_Weitong Long.pdf)]
+- **Honor:** Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD research (48,600 €; PI) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**     
 *2024.10 - 2025.01 Visiting PhD Student*            
-- **Supervisor**: Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
-- **Honor**: Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) for four-month of research (4,000 €; PI)
+- **Supervisor:** Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
+- **Honor:** Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) for four-month research (4,000 €; PI)
                      
 **College of Resources and Environmental Sciences, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China**                    
 *2020.09 - 2021.09 Visiting PhD Student*              
 *2018.09 - 2020.06 Master of Agriculture in Plant Nutrition*                                        
-- **Supervisor**: Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) and Associate Prof. Dr. [Hongliang Wang](https://faculty.cau.edu.cn/whl1/)
-- **Dissertation**: *Nitrogen footprint of China’s pig production and mitigation measures through feed management*
-- **Honor**: Awarded for the [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Top 1% best master thesis in China)
+- **Supervisor:** Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) and Associate Prof. Dr. [Hongliang Wang](https://faculty.cau.edu.cn/whl1/)
+- **Dissertation:** *Nitrogen footprint of China’s pig production and mitigation measures through feed management*
+- **Honor:** Awarded for the [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Top 1% best master thesis in China)
                            
 **College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China**                
 *2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment*                             
-- **Dual Bachelor**: Dual Bachelor of Arts in English
+- **Dual Bachelor:** Dual Bachelor of Arts in English
 
 # 👾 Training Courses
 **[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) summer school**                
 *2023.07 University of Graz, Graz, Austria*       
-- **Course**: Transnational and Cascading Climate Risks and Adaptation     
+- **Course:** Transnational and Cascading Climate Risks and Adaptation     
 
 **Dynamic General Equilibrium Modelling Course**                      
 *2021.07 Victoria University & University of International Business and Economics, Beijing, China*        
-- **Course**: CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
+- **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
 ***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): May 13, 2025): Total=234; H-index=7; I-10=7***
@@ -153,7 +153,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - Facilitated constructive peer feedback to enhance the quality of master students' written work
 
 # 💡 Academic Services
-**Conference Abstract Reviewer**
+**Conference Paper Reviewer**
 - [The XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en), 03/2025.
 
 **Conference Abstract Reviewer**
@@ -166,7 +166,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums, 06/2022 & 02/2023.  
 
 # 💻 Skills
-- **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), R (intermediate).
+- **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), and R (intermediate).
 - **Modelling**: Applied general equilibrium (AGE) modelling, life cycle assessment (LCA), input-output (I-O) analysis, material flow analysis (MFA), and meta-analysis.
 - **Software**: ArcGIS, Simapro, Github, Latex, and Microsoft Office.
 - **Languages**: Native to Mandarin Chinese. Strong reading, writing, and speaking competencies in English.
