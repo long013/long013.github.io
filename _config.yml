@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weitong Long 龙维桐"
+title                    : "Weitong Long (龙维桐)"
 description              : "PhD candidate, Environmental Economics and Natural Resources Group (ENR)"
 repository               : "weitong-long.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weitong Long 
-                      龙维桐"
+  name             : "Weitong Long (龙维桐)"
   avatar           : "images/Long Weitong_06_L-fotor-202407061637.png"
   bio              : "Wageningen University & research"
   location         : "Wageningen, the Netherlands"
