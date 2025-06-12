@@ -78,7 +78,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): May 14, 2025): Total=234; H-index=7; I-10=7***
+***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): June 12, 2025): Total=244; H-index=7; I-10=7***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
 1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine benefits of upcycling food waste and food processing by-products as animal feed in China**. ***In Princinple Accepted in Nature Food (SCI Q1; IF=23.6; Job Market Paper)***. [[Main Text](assets/NF_Main text_clean version.pdf)] [[Supplementary information](assets/NF_Supplementary information_clean version.pdf)] [[Slides](assets/20250207_Food waste slides_Weitong Long.pdf)].            
@@ -96,7 +96,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 8) Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub). In: ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.0)***, 289, 106748. DOI: 10.1016/j.agee.2019.106748        
    
 # 📜 Working Papers
-1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Land-Use Emission Leakage from China’s Dietary Shift and Afforestation Amplifies Food Insecurity and Economic Losses under the 2 °C Target**.
+1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Land-Use Emission Leakage from China’s Dietary Shift and Afforestation Amplifies Food Insecurity and Economic Losses under the 2 °C Target**. [[Main Text](assets/Food-land-climate nexus paper.pdf)] [[Supplementary information](assets/Food-land-climate nexus paper_Supplementary information.pdf)] [[Slides](assets/20250522_Food-land-climate nexus slides_Weitong Long.pdf)].            
 
 # 💬 Conference Presentations
 ***<sup>*</sup>indicates presenter***       
