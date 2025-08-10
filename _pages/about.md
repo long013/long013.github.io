@@ -81,14 +81,15 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 ***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): June 19, 2025): Total=246; H-index=7; I-10=7***
 
 - **Peer-Reviewed Journal Articles (First Author)**   
-1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine benefits of upcycling food waste and food processing by-products as animal feed in China**. ***In Press at Nature Food (SCI Q1; IF=21.9; Job Market Paper)***. [[Main Text](assets/NF_Main text_clean version.pdf)] [[Supplementary information](assets/NF_Supplementary information_clean version.pdf)] [[Slides](assets/20250207_Food waste slides_Weitong Long.pdf)].  <img width="980" height="428" alt="image" src="https://github.com/user-attachments/assets/022bf7ec-b803-4ead-96bd-ed4c32a8b316" />
-# 
-2) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616). In: ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=9.6)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004
+1) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine benefits of upcycling food waste and food processing by-products as animal feed in China**. ***In Press at Nature Food (SCI Q1; IF=21.9; Job Market Paper)***. [[Main Text](assets/NF_Main text_clean version.pdf)] [[Supplementary information](assets/NF_Supplementary information_clean version.pdf)] [[Slides](assets/20250207_Food waste slides_Weitong Long.pdf)].      
+<img width="870" height="487" alt="image" src="https://github.com/user-attachments/assets/022bf7ec-b803-4ead-96bd-ed4c32a8b316" />
+---
+2) **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y.  (2024). [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616). In: ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=9.6)***, 51, 42-54. DOI: 10.1016/j.spc.2024.09.004      
 <img width="870" height="487" alt="image" src="https://github.com/user-attachments/assets/8ad1c1ae-8d42-45df-82ac-38913f3912f6" />
-# 
-3) **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). In: ***Environmental Science and Technology (SCI Q1; IF=11.3)***, 55(8), 4440-4451. DOI: 10.1021/acs.est.0c08359
+---
+3) **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). In: ***Environmental Science and Technology (SCI Q1; IF=11.3)***, 55(8), 4440-4451. DOI: 10.1021/acs.est.0c08359      
 <img width="462" height="268" alt="image" src="https://github.com/user-attachments/assets/66c9324f-4ced-4c7c-b769-2bfa838dcd68" />
-# 
+ ---
 - **Peer-Reviewed Journal Articles (Other)**      
 1) Tan, M., Hou, Y., Zhang, T., Ma, Y., **Long, W.**, Gao, C., ... & Oenema, O. (2023). [**Relationships between livestock density and soil phosphorus contents–County and farm level analyses**](https://www.sciencedirect.com/science/article/pii/S0341816222008037). In: ***Catena (SCI Q1; IF=5.7)***, 222, 106817. DOI: 10.1016/j.catena.2022.106817                                                
 2) Tan, M., Hou, Y., Zhang, L., Shi, S., **Long, W.**, Ma, Y., ... & Oenema, O. (2023). [**Decision-making environment of low-protein animal feeding in dairy and poultry farms in China**](https://link.springer.com/article/10.1007/s10705-023-10295-9). In: ***Nutrient Cycling in Agroecosystems (SCI Q3; IF=2.7)***, 127(1), 85-96. DOI: 10.1007/s10705-023-10295-9    
