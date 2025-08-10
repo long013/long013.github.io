@@ -78,8 +78,8 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): August 10, 2025): Total=265; H-index=7; I-10=7***
-<a href='https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): August 10, 2025): Total=265<a href='https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>; H-index=7; I-10=7***
+
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
 <div class='paper-box'>
@@ -109,12 +109,12 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 <div class='paper-box'>
 <div class='paper-box-image'>  
 <div>
-  <div class="badge">Environmental Science and Technology</div>
+  <div class="badge">Environmental Science & Technology</div>
   <img src='https://github.com/user-attachments/assets/66c9324f-4ced-4c7c-b769-2bfa838dcd68' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">  
   
-- **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). In: ***Environmental Science and Technology (SCI Q1; IF=11.3)***, 55(8), 4440-4451. DOI: 10.1021/acs.est.0c08359
+- **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). In: ***Environmental Science & Technology (SCI Q1; IF=11.3)***, 55(8), 4440-4451. DOI: 10.1021/acs.est.0c08359
 </div>
 </div>   
 
