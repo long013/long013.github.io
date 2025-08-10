@@ -57,7 +57,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - **Supervisor:** Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
 - **Honor:** Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) for four-month research (4,000 €; PI)
                      
-**College of Resources and Environmental Sciences, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China**                    
+**College of Resources and Environmental Sciences, [China Agricultural University](https://en.cau.edu.cn/), Beijing, China**                    
 *2020.09 - 2021.09 Visiting PhD Student*              
 *2018.09 - 2020.06 Master of Agriculture in Plant Nutrition*                                        
 - **Supervisor:** Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) and Associate Prof. Dr. [Hongliang Wang](https://faculty.cau.edu.cn/whl1/)
