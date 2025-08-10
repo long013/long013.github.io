@@ -119,6 +119,8 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 </div>   
         
 
+
+
 2️⃣**Peer-Reviewed Journal Articles (Other):**      
 - Tan, M., Hou, Y., Zhang, T., Ma, Y., **Long, W.**, Gao, C., ... & Oenema, O. (2023). [**Relationships between livestock density and soil phosphorus contents–County and farm level analyses**](https://www.sciencedirect.com/science/article/pii/S0341816222008037). In: ***Catena (SCI Q1; IF=5.7)***, 222, 106817. DOI: 10.1016/j.catena.2022.106817
 - Tan, M., Hou, Y., Zhang, L., Shi, S., **Long, W.**, Ma, Y., ... & Oenema, O. (2023). [**Decision-making environment of low-protein animal feeding in dairy and poultry farms in China**](https://link.springer.com/article/10.1007/s10705-023-10295-9). In: ***Nutrient Cycling in Agroecosystems (SCI Q3; IF=2.7)***, 127(1), 85-96. DOI: 10.1007/s10705-023-10295-9
