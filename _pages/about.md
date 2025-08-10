@@ -90,7 +90,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 </div></div>
 <div class='paper-box-text' markdown="1"> 
   
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine benefits of upcycling food waste and food processing by-products as animal feed in China**. ***In Press at Nature Food (SCI Q1; IF=21.9; Job Market Paper)***. [[Main Text](assets/NF_Main text_clean version.pdf)] [[Supplementary information](assets/NF_Supplementary information_clean version.pdf)] [[Slides](assets/20250207_Food waste slides_Weitong Long.pdf)].
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**. ***In Press at Nature Food (SCI Q1; IF=21.9; Job Market Paper)***. [[Main Text](assets/NF_Main text_clean version.pdf)] [[Supplementary information](assets/NF_Supplementary information_clean version.pdf)] [[Slides](assets/20250207_Food waste slides_Weitong Long.pdf)].
 </div>
 </div>    
        
