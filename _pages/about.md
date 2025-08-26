@@ -17,7 +17,7 @@ I am Weitong Long (龙维桐). I am currently a [PhD candidate](https://research
 
 With over 6+ years of experience as an interdisciplinary quantitative researcher, I specialise in integrated environmental-economic modelling and environmental impact assessment of food systems. My expertise lies in applying quantitative modelling approaches to explore mitigation options towards sustainable food systems. **My PhD dissertation focuses on assessing the impacts of food system transformation options—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels.** I employ an integrated environmental-economic modelling approach based on the general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. 
 
-I have published 11 scientific papers in peer-reviewed journals, including three first-authored papers published in **Environmental Science & Technology (SCI Q1; IF=11.3)**, **Sustainable Production and Consumption (SCI & SSCI Q1, IF=9.6)**, and **Nature Food (SCI Q1; IF=21.9)**. 
+I have published 11 scientific papers in peer-reviewed journals, including three first-authored papers published in ***Environmental Science & Technology (SCI Q1; IF=11.3)***, ***Sustainable Production and Consumption (SCI & SSCI Q1, IF=9.6)***, and ***Nature Food (SCI Q1; IF=21.9)***. 
 
 # 🎀 Research Interests
 - Sustainable food systems, food-land-climate nexus, and climate mitigation 🍽️🐾🌎
@@ -48,7 +48,7 @@ I have published 11 scientific papers in peer-reviewed journals, including three
 *2020.09 - 2025.12 (Expected) PhD Candidate of Economics in Environmental Economics and Natural Resources*               
 - **Supervisor:** Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program:** [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
-- **Dissertation:** *Towards sustainable food systems in China: insights from an integrated environmental-economic modelling approach* [[Slides](assets/PhD research outline_Weitong Long.pdf)]
+- **Dissertation:** *Towards sustainable food systems in China: insights from an integrated environmental-economic modelling approach*
 - **Honor:** Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD research (48,600 €; PI) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**     
@@ -89,7 +89,7 @@ I have published 11 scientific papers in peer-reviewed journals, including three
 </div></div>
 <div class='paper-box-text' markdown="1"> 
   
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**. In: ***Nature Food (SCI Q1; IF=21.9)***. https://doi.org/10.1038/s43016-025-01219-7.
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9)***. https://doi.org/10.1038/s43016-025-01219-7.
 </div>
 </div>    
        
@@ -129,7 +129,7 @@ I have published 11 scientific papers in peer-reviewed journals, including three
 - Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub). In: ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.4)***, 289, 106748. DOI: 10.1016/j.agee.2019.106748        
    
 # 📜 Working Papers
-- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Emission leakages through trade-induced land use changes may undermine the effectiveness of diet shift and afforestation policies in China**. [[Main Text](assets/Food-land-climate nexus paper.pdf)] [[Supplementary information](assets/Food-land-climate nexus paper_Supplementary information.pdf)] [[Slides](assets/20250522_Food-land-climate nexus slides_Weitong Long.pdf)].            
+- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Emission leakages through trade-induced land use changes may undermine the effectiveness of diet shift and afforestation policies in China**. Full paper available upon request.            
 
 # 💬 Conference Presentations
 ***<sup>*</sup>indicates presenter***       
