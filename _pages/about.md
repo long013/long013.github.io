@@ -17,9 +17,7 @@ I am Weitong Long (龙维桐). I am currently a [PhD candidate](https://research
 
 With over 6+ years of experience as an interdisciplinary quantitative researcher, I specialise in integrated environmental-economic modelling and environmental impact assessment of food systems. My expertise lies in applying quantitative modelling approaches to explore mitigation options towards sustainable food systems. **My PhD dissertation focuses on assessing the impacts of food system transformation options—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels.** I employ an integrated environmental-economic modelling approach based on the general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. 
 
-I have published 10 scientific papers in peer-reviewed journals, including two first-authored papers, one published in **Environmental Science & Technology (SCI Q1; IF=11.3)** and the other in **Sustainable Production and Consumption (SCI & SSCI Q1, IF=9.6)**. In addition, I have a first-authored paper in press at **Nature Food (SCI Q1; IF=21.9; Job Market Paper)**. 
-
-In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] [[Supplementary information](assets/NF_Supplementary information_clean version.pdf)] [[Slides](assets/20250207_Food waste slides_Weitong Long.pdf)], currently in press at **Nature Food**, I highlight that rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China and have substantial knock-on effects beyond the agricultural sectors, through influencing sectoral employment, gross domestic product, and household welfare. Although emission taxes could absorb the rebound effects on emissions, they may also negatively impact food security and shift emissions abroad, depending on tax levels. 
+I have published 11 scientific papers in peer-reviewed journals, including three first-authored papers published in **Environmental Science & Technology (SCI Q1; IF=11.3)**, **Sustainable Production and Consumption (SCI & SSCI Q1, IF=9.6)**, and **Nature Food (SCI Q1; IF=21.9)**. 
 
 # 🎀 Research Interests
 - Sustainable food systems, food-land-climate nexus, and climate mitigation 🍽️🐾🌎
@@ -27,7 +25,8 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - Environmental impact assessment of food systems 🧩
 
 # 🔥 News
-- *2025.08:* &nbsp;💬 A poster presentation to be delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)** (Bonn, Germany).
+- *2025.08:* &nbsp;🎉 One first-authored paper published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas).
+- *2025.08:* &nbsp;💬 A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)** (Bonn, Germany).
 - *2025.02:* &nbsp;💬 An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm))** (Wageningen, the Netherlands).
 - *2024.10:* &nbsp;😊 Started my four-month research as a visiting PhD student at **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/)** in Davis, the United States.
 - *2024.09:* &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=9.6)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616).
@@ -49,7 +48,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 *2020.09 - 2025.12 (Expected) PhD Candidate of Economics in Environmental Economics and Natural Resources*               
 - **Supervisor:** Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program:** [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
-- **Dissertation:** *Towards sustainable food systems in China: transformation options and their connections to the food-land-climate nexus* [[Slides](assets/PhD research outline_Weitong Long.pdf)]
+- **Dissertation:** *Towards sustainable food systems in China: insights from an integrated environmental-economic modelling approach* [[Slides](assets/PhD research outline_Weitong Long.pdf)]
 - **Honor:** Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD research (48,600 €; PI) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**     
@@ -78,7 +77,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): August 10, 2025): Total=265; H-index=7; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): August 26, 2025): Total=277; H-index=7; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
@@ -90,7 +89,7 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 </div></div>
 <div class='paper-box-text' markdown="1"> 
   
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**. ***In Press at Nature Food (SCI Q1; IF=21.9; Job Market Paper)***. [[Main Text](assets/NF_Main text_clean version.pdf)] [[Supplementary information](assets/NF_Supplementary information_clean version.pdf)] [[Slides](assets/20250207_Food waste slides_Weitong Long.pdf)].
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). **Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**. In: ***Nature Food (SCI Q1; IF=21.9)***. https://doi.org/10.1038/s43016-025-01219-7.
 </div>
 </div>    
        
@@ -130,11 +129,11 @@ In my **Job Market Paper** [[Main Text](assets/NF_Main text_clean version.pdf)] 
 - Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub). In: ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.4)***, 289, 106748. DOI: 10.1016/j.agee.2019.106748        
    
 # 📜 Working Papers
-- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Land-use emission leakages from China’s dietary shift and afforestation amplify food insecurity and economic losses under the 2 °C target**. [[Main Text](assets/Food-land-climate nexus paper.pdf)] [[Supplementary information](assets/Food-land-climate nexus paper_Supplementary information.pdf)] [[Slides](assets/20250522_Food-land-climate nexus slides_Weitong Long.pdf)].            
+- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Emission leakages through trade-induced land use changes may undermine the effectiveness of diet shift and afforestation policies in China**. [[Main Text](assets/Food-land-climate nexus paper.pdf)] [[Supplementary information](assets/Food-land-climate nexus paper_Supplementary information.pdf)] [[Slides](assets/20250522_Food-land-climate nexus slides_Weitong Long.pdf)].            
 
 # 💬 Conference Presentations
 ***<sup>*</sup>indicates presenter***       
-- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (08/2025, upcoming). Land-use emission leakages from China’s dietary shift and afforestation amplify food insecurity and economic losses under the 2 °C target. A poster presentation to be delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)**, Bonn, Germany.
+- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (08/2025, upcoming). Land-use emission leakages from China’s dietary shift and afforestation amplify food insecurity and economic losses under the 2 °C target. A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)**, Bonn, Germany.
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2025). Quantifying the environmental and economic impacts of upcycling low-opportunity-cost feed as animal feed: a general equilibrium approach. An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm)**, Wageningen, the Netherlands.
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. An oral presentation delivered at the **[29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)**, Leeuwarden, Fryslân, the Netherlands.
