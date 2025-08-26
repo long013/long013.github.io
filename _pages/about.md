@@ -89,7 +89,7 @@ I have published 11 scientific papers in peer-reviewed journals, including three
 </div></div>
 <div class='paper-box-text' markdown="1"> 
   
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9)***. https://doi.org/10.1038/s43016-025-01219-7.
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9)***. DOI: 10.1038/s43016-025-01219-7.
 </div>
 </div>    
        
