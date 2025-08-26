@@ -68,7 +68,7 @@ I have published 11 scientific papers in peer-reviewed journals, including three
 - **Dual Bachelor:** Dual Bachelor of Arts in English
 
 # 👾 Training Courses
-**[European Association of Environmental and Resource Economists (EAERE)](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) summer school**                
+**[European Association of Environmental and Resource Economists (EAERE) summer school](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)**                
 *2023.07 University of Graz, Graz, Austria*       
 - **Course:** Transnational and Cascading Climate Risks and Adaptation     
 
