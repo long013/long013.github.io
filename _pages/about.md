@@ -17,7 +17,7 @@ I am Weitong Long (龙维桐). I am currently a [PhD candidate](https://research
 
 With over 6+ years of experience as an interdisciplinary quantitative researcher, I specialise in integrated environmental-economic modelling and environmental impact assessment of food systems. My expertise lies in applying quantitative modelling approaches to explore mitigation options towards sustainable food systems. **My PhD dissertation focuses on assessing the impacts of food system transformation options—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels.** I employ an integrated environmental-economic modelling approach based on the general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. 
 
-I have published 11 scientific papers in peer-reviewed journals, including three first-authored papers published in ***Environmental Science & Technology (SCI Q1; IF=11.3)***, ***Sustainable Production and Consumption (SCI & SSCI Q1, IF=9.6)***, and ***Nature Food (SCI Q1; IF=21.9)***. 
+I have published 12 scientific papers in peer-reviewed journals, including three first-authored papers published in ***Environmental Science & Technology (SCI Q1; IF=11.3)***, ***Sustainable Production and Consumption (SCI & SSCI Q1, IF=9.6)***, and ***Nature Food (SCI Q1; IF=21.9)***. 
 
 # 🎀 Research Interests
 - Sustainable food systems, food-land-climate nexus, and climate mitigation 🍽️🐾🌎
@@ -89,8 +89,8 @@ I have published 11 scientific papers in peer-reviewed journals, including three
 </div></div>
 <div class='paper-box-text' markdown="1"> 
   
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9)***. DOI: 10.1038/s43016-025-01235-7.
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9)***. DOI: 10.1038/s43016-025-01219-7.
+- **Long, W.**, Zhu, X. (2025). [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9)***. DOI: 10.1038/s43016-025-01235-7. [Research Briefing]
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9)***. DOI: 10.1038/s43016-025-01219-7. [Research Article]
 </div>
 </div>    
        
