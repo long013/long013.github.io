@@ -90,8 +90,8 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 </div></div>
 <div class='paper-box-text' markdown="1"> 
   
-- **Long, W.**, Zhu, X. (2025). [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9)***. DOI: 10.1038/s43016-025-01235-7. [Research Briefing]
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9)***. DOI: 10.1038/s43016-025-01219-7. [Research Article]
+- **Long, W.**, Zhu, X. (2025). [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9; Research Briefing)***. DOI: 10.1038/s43016-025-01235-7.
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9; Research Article)***. DOI: 10.1038/s43016-025-01219-7.
 </div>
 </div>    
        
