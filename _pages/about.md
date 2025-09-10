@@ -17,7 +17,7 @@ I am Weitong Long (龙维桐). I am currently a [PhD candidate](https://research
 
 With over 6+ years of experience as an interdisciplinary quantitative researcher, I specialise in integrated environmental-economic modelling and environmental impact assessment of food systems. My expertise lies in applying quantitative modelling approaches to explore mitigation options towards sustainable food systems. **My PhD dissertation focuses on assessing the impacts of food system transformation options—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels.** I employ an integrated environmental-economic modelling approach based on the general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. 
 
-I have published 12 scientific papers in peer-reviewed journals, including three first-authored papers published in ***Environmental Science & Technology (SCI Q1; IF=11.3)***, ***Sustainable Production and Consumption (SCI & SSCI Q1, IF=9.6)***, and ***Nature Food (SCI Q1; IF=21.9)***. 
+I have published 12 scientific papers in peer-reviewed journals, including three first-authored research articles published in ***Environmental Science & Technology (SCI Q1; IF=11.3)***, ***Sustainable Production and Consumption (SCI & SSCI Q1, IF=9.6)***, and ***Nature Food (SCI Q1; IF=21.9)***, as well as one first-authored research briefing published in ***Nature Food (SCI Q1; IF=21.9)***.
 
 # 🎀 Research Interests
 - Sustainable food systems, food-land-climate nexus, and climate mitigation 🍽️🐾🌎
@@ -25,23 +25,24 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 - Environmental impact assessment of food systems 🧩
 
 # 🔥 News
-- *2025.08:* &nbsp;🎉 One first-authored paper published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas).
+- *2025.09:* &nbsp;🎉 One first-authored research briefing published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas).
+- *2025.08:* &nbsp;🎉 One first-authored research article published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas).
 - *2025.08:* &nbsp;💬 A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)** (Bonn, Germany).
 - *2025.02:* &nbsp;💬 An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm))** (Wageningen, the Netherlands).
 - *2024.10:* &nbsp;😊 Started my four-month research as a visiting PhD student at **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/)** in Davis, the United States.
-- *2024.09:* &nbsp;🎉 One first-authored paper published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=9.6)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616).
+- *2024.09:* &nbsp;🎉 One first-authored research article published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=9.6)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616).
 - *2024.07:* &nbsp;💰 Awarded for the **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month of research at **[University of California, Davis](https://www.ucdavis.edu/)** (Davis, the United States) (4,000 €; PI).
 - *2024.07:* &nbsp;💬 An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
 - *2024.06:* &nbsp;💬 An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, the Netherlands).
 - *2023.08:* &nbsp;💬 A poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)** (Rennes, France).
 - *2023.07:* &nbsp;💬 An oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)** (University of Graz, Graz, Austria).
 - *2023.06:* &nbsp;💰 Awarded for the **[Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm)** from the LEB Travel Fund to participate in the **XVII EAAE Congress** (750 €; PI).
-- *2022.12:* &nbsp;🎉 One co-authored paper published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6).
-- *2022.07:* &nbsp;🎉 One second-authored paper published in ***Animal Feed Science and Technology (SCI Q1; IF=2.7)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
-- *2021.04:* &nbsp;🎉 One first-authored paper published in ***Environmental Science & Technology (SCI Q1; IF=11.3)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
+- *2022.12:* &nbsp;🎉 One co-authored research article published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6).
+- *2022.07:* &nbsp;🎉 One second-authored research article published in ***Animal Feed Science and Technology (SCI Q1; IF=2.7)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
+- *2021.04:* &nbsp;🎉 One first-authored research article published in ***Environmental Science & Technology (SCI Q1; IF=11.3)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
 - *2020.12:* &nbsp;💰 Awarded for the **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) (48,600 €; PI) for PhD research and **[Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)** from the Sino-Dutch Agriculture Green Development (AGD) PhD program (8,300 €; PI) for data collection at **[Wageningen University & Research](https://www.wur.nl/)** in Wageningen, the Netherlands.
 - *2020.08:* &nbsp;🏆 Awarded for the **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
-- *2020.02:* &nbsp;🎉 One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.4)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
+- *2020.02:* &nbsp;🎉 One second-authored research article published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.4)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
 # 📖 Education
 **Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, the Netherlands**              
@@ -77,7 +78,7 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): August 27, 2025): Total=277; H-index=7; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): September 10, 2025): Total=281; H-index=7; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
