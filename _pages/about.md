@@ -78,7 +78,7 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): September 10, 2025): Total=281; H-index=7; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): September 27, 2025): Total=288; H-index=7; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
@@ -90,8 +90,8 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 </div></div>
 <div class='paper-box-text' markdown="1"> 
   
-- **Long, W.**, Zhu, X. (2025). [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9; Research Briefing)***. DOI: 10.1038/s43016-025-01235-7.
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9; Research Article)***. DOI: 10.1038/s43016-025-01219-7.
+- **Long, W.**, Zhu, X. (2025). [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9; Featured Research Briefing)***, 6(9), 835–836. DOI: 10.1038/s43016-025-01235-7.
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (2025). [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas). In: ***Nature Food (SCI Q1; IF=21.9; Research Article)***, 6(9), 881–891. DOI: 10.1038/s43016-025-01219-7.
 </div>
 </div>    
        
@@ -131,7 +131,7 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 - Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub). In: ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.4)***, 289, 106748. DOI: 10.1016/j.agee.2019.106748        
    
 # 📜 Working Papers
-- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Emission leakages through trade-induced land use changes may undermine the effectiveness of diet shift and afforestation policies in China**. *Full paper available upon request*.            
+- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Emission leakages through trade-induced land use changes may undermine the effectiveness of diet shift and afforestation policy in China**. *Full paper available upon request*.            
 
 # 💬 Conference Presentations
 ***<sup>*</sup>indicates presenter***       
