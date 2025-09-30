@@ -78,7 +78,7 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): September 27, 2025): Total=288; H-index=7; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): September 30, 2025): Total=290; H-index=7; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
