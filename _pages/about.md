@@ -44,25 +44,27 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - *2020.08:* &nbsp;🏆 Awarded for the **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
 - *2020.02:* &nbsp;🎉 One second-authored research article published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.4)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
+# 💼 Work Experiences
+**Department of Environmental Management, College of Environment Sciences and Engineering, [Peking University](https://english.pku.edu.cn/), Beijing, China**              
+*2026.05 - 2028.05 Boya Postdoctoral Researcher*   
+- **Supervisor:** Associate Prof. Dr. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) 
+
 # 📖 Education
 **Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, the Netherlands**              
 *2020.09 - 2026.01 PhD Candidate of Economics in Environmental Economics and Natural Resources*               
 - **Supervisor:** Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program:** [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
 - **Dissertation:** *Towards a sustainable food system in China: insights from an integrated environmental-economic modelling approach*
-- **Honor:** Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD study and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**     
 *2024.10 - 2025.01 Visiting PhD Student*            
 - **Supervisor:** Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
-- **Honor:** Awarded for the [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) for four-month research (4,000 €; PI)
                      
 **College of Resources and Environmental Sciences, [China Agricultural University](https://en.cau.edu.cn/), Beijing, China**                    
 *2020.09 - 2021.09 Visiting PhD Student*              
 *2018.09 - 2020.06 Master of Agriculture in Plant Nutrition*                                        
 - **Supervisor:** Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) and Associate Prof. Dr. [Hongliang Wang](https://faculty.cau.edu.cn/whl1/)
 - **Dissertation:** *Nitrogen footprint of China’s pig production and mitigation measures through feed management*
-- **Honor:** Awarded for the [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Top 1% best master thesis in China)
                            
 **College of Resources, [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China**                
 *2014.09 - 2018.06 Bachelor of Agriculture in Agricultural Resources and Environment*                             
