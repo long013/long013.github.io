@@ -196,19 +196,19 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 💡 Academic Services
 **Peer-reviewed Journal Article Reviewer**
-- [Nature Food](https://www.nature.com/natfood/), 10/2025.
+- [Nature Food](https://www.nature.com/natfood/), 2025.
 
 **Conference Paper Reviewer**
-- [The XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en), 03/2025.
+- [The XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en), 2025.
 
 **Conference Abstract Reviewer**
-- [The 2024, 2025, and 2026 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 02/2024 & 02/2025 & 02/2026.
+- [The Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 2024-2026.
 
 **Conference Parallel Session Chair and Discussant**
-- [The 29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024) in the session of  “Theory models”, 07/2024. 
+- [The 29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024) in the session of  “Theory models”, 2024. 
 
 **Conference Co-organiser**
-- The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums, 06/2022 & 02/2023.  
+- The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums, 2022-2023.  
 
 # 💻 Skills
 - **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), and R (intermediate).
