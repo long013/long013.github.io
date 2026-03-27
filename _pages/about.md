@@ -72,7 +72,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 👾 Training Courses
 **[LAMASUS / BrightSpace / Tools4CAP Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)**                
-*2026.06 (upcoming) International Institute of Applied Systems Analysis, Laxenburg, Austria*       
+*2026.06 International Institute of Applied Systems Analysis, Laxenburg, Austria*       
 - **Course:** Advanced modelling techniques for land-use and policy analysis    
 
 **[European Association of Environmental and Resource Economists (EAERE) summer school](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)**                
