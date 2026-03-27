@@ -188,7 +188,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Facilitated constructive peer feedback to enhance the quality of master students' written work
 
 # 💡 Academic Services
-**Peer-reviewed journal Reviewer**
+**Peer-reviewed Journal Article Reviewer**
 - [Nature Food](https://www.nature.com/natfood/), 10/2025.
 
 **Conference Paper Reviewer**
