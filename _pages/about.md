@@ -69,6 +69,10 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Dual Bachelor:** Dual Bachelor of Arts in English
 
 # 👾 Training Courses
+**[LAMASUS / BrightSpace / Tools4CAP Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)**                
+*2026.06 (upcoming) International Institute of Applied Systems Analysis, Laxenburg, Austria*       
+- **Course:** Advanced modelling techniques for land-use and policy analysis    
+
 **[European Association of Environmental and Resource Economists (EAERE) summer school](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)**                
 *2023.07 University of Graz, Graz, Austria*       
 - **Course:** Transnational and Cascading Climate Risks and Adaptation     
@@ -78,7 +82,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): March27, 2026): Total=348; H-index=8; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): March 27, 2026): Total=348; H-index=8; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
