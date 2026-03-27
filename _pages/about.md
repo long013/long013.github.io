@@ -222,8 +222,6 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - European Economic Association (EEA)
 - European Association of Agricultural Economists (EAAE)
 - European Association of Environmental and Resource Economists (EAERE)
-- International Association of Agricultural Economists (IAAE)
-- International Society for Ecological Economics (ISEE)
 - International Society for Industrial Ecology (ISIE)
 - American Geosciences Union (AGU)
 - European Geosciences Union (EGU)
