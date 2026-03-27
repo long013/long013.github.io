@@ -23,7 +23,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Environmental impact assessment of food systems 🧩
 
 # 🔥 News
-- *2026.01:* &nbsp;🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my supervisors, collegues, family, and friends for their unwavering support. Excited for what lies ahead!
+- *2026.01:* &nbsp;🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my supervisors, colleagues, family, and friends for their unwavering support. 🎉🥳
 - *2025.12:* &nbsp;💰 Awarded for the **[Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)** at Peking University.
 - *2025.09:* &nbsp;🎉 One first-authored research briefing published and featured on the cover of ***Nature Food (SCI Q1; IF= 21.9)***: [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas).
 - *2025.08:* &nbsp;🎉 One first-authored research article published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas).
