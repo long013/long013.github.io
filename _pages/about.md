@@ -154,6 +154,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (11/2022). The global environmental consequences of adjustments in the food systems in China. An oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.
 
 # 🏆 Grants and Awards
+- *2025.12:* [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) from Peking University (Awarded to the Top 1% PhD candidate).
 - *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from WASS for the four-month research at the University of California, Davis (4,000 €; PI)
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
 - *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €; PI)
