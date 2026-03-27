@@ -11,13 +11,11 @@ redirect_from:
 Welcome to my personal website!😊 You can reach me at weitong.long@outlook.com 📧. You can find my [full](assets/Weitong_Long_CV_Full.pdf) and [efficient](assets/Weitong_Long_CV.pdf) Curriculum Vitae here. You can find my Curriculum Vitae in [Chinese](assets/龙维桐_简历.pdf) here. 
 For a full list of my publications, please check [Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl). 
 
-I am Weitong Long (龙维桐). I am currently a [PhD candidate](https://research.wur.nl/en/persons/weitong-long) from [Environmental Economics and Natural Resources Group (ENR)](https://www.wur.nl/en/research-results/chair-groups/social-sciences/environmental-economics-and-natural-resources-group.htm) at [Wageningen University & Research](https://www.wur.nl/) in Wageningen, the Netherlands. I am supervised by Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema) from [Wageningen University & Research](https://www.wur.nl/), as well as Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) from [China Agricultural university](https://en.cau.edu.cn/). I conducted one-year research as a visiting PhD student at [China Agricultural University](https://en.cau.edu.cn/) in Beijing, China, under the supervision of Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) from September 2020 to September 2021. Additionally, I conducted four-month research as a visiting PhD student at [University of California, Davis](https://www.ucdavis.edu/) in Davis, the United States, under the supervision of Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano) from October 2024 to January 2025. 
+I am Weitong Long (龙维桐). I hold a PhD in Environmental Economics from [Wageningen University & Research](https://www.wur.nl/) in Wageningen, the Netherlands. During my PhD, I was supervised by Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema) from [Wageningen University & Research](https://www.wur.nl/), as well as Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) from [China Agricultural university](https://en.cau.edu.cn/). I conducted one-year research as a visiting PhD student at [China Agricultural University](https://en.cau.edu.cn/) in Beijing, China, under the supervision of Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) from September 2020 to September 2021. Additionally, I conducted four-month research as a visiting PhD student at [University of California, Davis](https://www.ucdavis.edu/) in Davis, the United States, under the supervision of Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano) from October 2024 to January 2025. 
 
-**I am scheduled to submit my PhD thesis in September 2025, with my defense anticipated in January 2026. Currently, I am seeking academic opportunities for the 2025-2026 academic year. I am available for interviews at both the [European Job Market (EJME)](https://www.europeanjobmarketofeconomists.org/) and the [Allied Social Science Associations (ASSA)](https://www.aeaweb.org/conference/).**
+With over 7+ years of experience as an interdisciplinary quantitative researcher, I specialise in integrated environmental-economic modelling and environmental impact assessment of food systems. My expertise lies in applying quantitative modelling approaches to explore mitigation options towards sustainable food systems. **My PhD dissertation focuses on assessing the impacts of food system transformation options—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels.** I employ an integrated environmental-economic modelling approach based on the general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. 
 
-With over 6+ years of experience as an interdisciplinary quantitative researcher, I specialise in integrated environmental-economic modelling and environmental impact assessment of food systems. My expertise lies in applying quantitative modelling approaches to explore mitigation options towards sustainable food systems. **My PhD dissertation focuses on assessing the impacts of food system transformation options—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels.** I employ an integrated environmental-economic modelling approach based on the general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. 
-
-I have published 12 scientific papers in peer-reviewed journals, including three first-authored research articles published in ***Environmental Science & Technology (SCI Q1; IF=11.3)***, ***Sustainable Production and Consumption (SCI & SSCI Q1, IF=9.6)***, and ***Nature Food (SCI Q1; IF=21.9)***, as well as one first-authored research briefing published in ***Nature Food (SCI Q1; IF=21.9)***.
+Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) at [Peking University](https://english.pku.edu.cn/), where I will continue my work on general equilibrium modelling of food systems from April 2026 onwards. Building on my doctoral research, I plan to extend my modelling framework by incorporating a human health module. This will enable me to quantify premature mortality associated with PM2.5 exposure as well as diet-related and weight-related health risks, thereby advancing the assessment of co-benefits across food, environment, and health systems.
 
 # 🎀 Research Interests
 - Sustainable food systems, food-land-climate nexus, and climate mitigation 🍽️🐾🌎
@@ -25,7 +23,8 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 - Environmental impact assessment of food systems 🧩
 
 # 🔥 News
-- *2025.09:* &nbsp;🎉 One first-authored research briefing published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas).
+- *2026.01:* &nbsp;🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my supervisors, collegues, family, and friends for their unwavering support. Excited for what lies ahead!
+- *2025.09:* &nbsp;🎉 One first-authored research briefing published and featured on the cover of ***Nature Food (SCI Q1; IF= 21.9)***: [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas).
 - *2025.08:* &nbsp;🎉 One first-authored research article published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas).
 - *2025.08:* &nbsp;💬 A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)** (Bonn, Germany).
 - *2025.02:* &nbsp;💬 An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm))** (Wageningen, the Netherlands).
@@ -46,7 +45,7 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 
 # 📖 Education
 **Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, the Netherlands**              
-*2020.09 - 2026.01 (Expected) PhD Candidate of Economics in Environmental Economics and Natural Resources*               
+*2020.09 - 2026.01 PhD Candidate of Economics in Environmental Economics and Natural Resources*               
 - **Supervisor:** Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program:** [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
 - **Dissertation:** *Towards a sustainable food system in China: insights from an integrated environmental-economic modelling approach*
@@ -78,7 +77,7 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): September 30, 2025): Total=290; H-index=7; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): March27, 2026): Total=348; H-index=8; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
@@ -135,7 +134,8 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 
 # 💬 Conference Presentations
 ***<sup>*</sup>indicates presenter***       
-- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (08/2025, upcoming). Land-use emission leakages from China’s dietary shift and afforestation amplify food insecurity and economic losses under the 2 °C target. A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)**, Bonn, Germany.
+- **Long, W.**, Zhu, X.<sup>*</sup>, Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (06/2026, upcoming). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. An oral presentation delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)**, Carcavelos, Portugal.
+- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (08/2025, upcoming). Land-use emission leakages from China’s dietary shift and afforestation amplify food insecurity and economic losses under the 2 °C target. A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)**, Bonn, Germany.  
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2025). Quantifying the environmental and economic impacts of upcycling low-opportunity-cost feed as animal feed: a general equilibrium approach. An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm)**, Wageningen, the Netherlands.
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. An oral presentation delivered at the **[29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)**, Leeuwarden, Fryslân, the Netherlands.
@@ -188,11 +188,14 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 - Facilitated constructive peer feedback to enhance the quality of master students' written work
 
 # 💡 Academic Services
+**Peer-reviewed journal Reviewer**
+- [Nature Food](https://www.nature.com/natfood/), 10/2025.
+
 **Conference Paper Reviewer**
 - [The XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en), 03/2025.
 
 **Conference Abstract Reviewer**
-- [The 2024 and 2025 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 02/2024 & 02/2025.
+- [The 2024, 2025, and 2026 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) in the area of “Production Economics”, 02/2024 & 02/2025 & 02/2026.
 
 **Conference Parallel Session Chair and Discussant**
 - [The 29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024) in the session of  “Theory models”, 07/2024. 
@@ -214,7 +217,6 @@ I have published 12 scientific papers in peer-reviewed journals, including three
 - European Association of Agricultural Economists (EAAE)
 - European Association of Environmental and Resource Economists (EAERE)
 - International Association of Agricultural Economists (IAAE)
-- International Food And Agribusiness Management Association (IFAMA)
 - International Society for Ecological Economics (ISEE)
 - International Society for Industrial Ecology (ISIE)
 - American Geosciences Union (AGU)
