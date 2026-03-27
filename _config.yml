@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weitong Long (龙维桐)"
-description              : "PhD candidate, Environmental Economics and Natural Resources Group (ENR)"
+description              : "Postdoctoral Researcher, Department of Environmental Management, College of Environment Sciences and Engineering"
 repository               : "weitong-long.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weitong Long"
   avatar           : "images/Long Weitong_06_L-fotor-202407061637.png"
-  bio              : "Wageningen University & research"
+  bio              : "Peking University"
   location         : "Wageningen, the Netherlands"
   employer         :
   pubmed           : 
