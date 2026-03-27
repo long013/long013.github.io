@@ -15,7 +15,7 @@ I am Weitong Long (龙维桐). With over 7+ years of experience as an interdisci
 
 I got my PhD in Environmental Economics from [Wageningen University & Research](https://www.wur.nl/) in Wageningen, the Netherlands, in January 2026. During my PhD, I was supervised by Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema) from [Wageningen University & Research](https://www.wur.nl/), as well as Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) from [China Agricultural university](https://en.cau.edu.cn/). I conducted one-year research as a visiting PhD student at [China Agricultural University](https://en.cau.edu.cn/) in Beijing, China, under the supervision of Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) from September 2020 to September 2021. Additionally, I conducted four-month research as a visiting PhD student at [University of California, Davis](https://www.ucdavis.edu/) in Davis, the United States, under the supervision of Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano) from October 2024 to January 2025. 
 
-Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) at [Peking University](https://english.pku.edu.cn/), where I will continue my work on general equilibrium modelling of food systems from May 2026 onwards. Building on my doctoral research, I will work closely with Dr. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) to further develop my modelling framework by incorporating a human health dimension, advancing the assessment of co-benefits across food, environment, and health systems. 
+Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) at [Peking University](https://english.pku.edu.cn/), where I will continue my work on general equilibrium modelling of food systems from May 2026 onwards. Building on my doctoral research, I will work closely with Associate Prof. Dr. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) to further develop my modelling framework by incorporating a human health dimension, advancing the assessment of co-benefits across food, environment, and health systems. 
 
 # 🎀 Research Interests
 - Sustainable food systems, food-land-climate nexus, and climate mitigation 🍽️🐾🌎
@@ -46,7 +46,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 💼 Work Experiences
 **College of Environment Sciences and Engineering, [Peking University](https://english.pku.edu.cn/), Beijing, China**              
-*2026.05 - 2028.05 Boya Postdoctoral Researcher*   
+*2026.05 - 2028.05 Postdoctoral Researcher with the [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)*   
 - **Supervisor:** Associate Prof. Dr. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) 
 
 # 📖 Education
