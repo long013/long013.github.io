@@ -40,7 +40,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - *2022.12:* &nbsp;🎉 One co-authored research article published in ***Nature Food (SCI Q1; IF= 21.9)***: [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6).
 - *2022.07:* &nbsp;🎉 One second-authored research article published in ***Animal Feed Science and Technology (SCI Q1; IF=2.7)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
 - *2021.04:* &nbsp;🎉 One first-authored research article published in ***Environmental Science & Technology (SCI Q1; IF=11.3)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
-- *2020.12:* &nbsp;💰 Awarded for the **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) (48,600 €; PI) for PhD research and **[Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)** from the Sino-Dutch Agriculture Green Development (AGD) PhD program (8,300 €; PI) for data collection at **[Wageningen University & Research](https://www.wur.nl/)** in Wageningen, the Netherlands.
+- *2020.12:* &nbsp;💰 Awarded for the **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for PhD study and **[Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)** from the Sino-Dutch Agriculture Green Development (AGD) PhD program (8,300 €; PI) for data collection at **[Wageningen University & Research](https://www.wur.nl/)** in Wageningen, the Netherlands.
 - *2020.08:* &nbsp;🏆 Awarded for the **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China).
 - *2020.02:* &nbsp;🎉 One second-authored research article published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.4)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
@@ -50,7 +50,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Supervisor:** Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program:** [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm)
 - **Dissertation:** *Towards a sustainable food system in China: insights from an integrated environmental-economic modelling approach*
-- **Honor:** Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD research (48,600 €; PI) and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
+- **Honor:** Awarded for the [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD study and [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection (8,300 €; PI)
                  
 **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/), Davis, the United States**     
 *2024.10 - 2025.01 Visiting PhD Student*            
@@ -158,13 +158,13 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (11/2022). The global environmental consequences of adjustments in the food systems in China. An oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.
 
 # 🏆 Grants and Awards
-- *2025.12:* [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) from Peking University (Awarded to the Top 1% PhD candidate).
+- *2025.12:* [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) from Peking University
 - *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from WASS for the four-month research at the University of California, Davis (4,000 €; PI)
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
 - *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €; PI)
 - *2021.02*: Educational backpack from WASS for taking courses and attending conferences (3,500 €; PI)
 - *2020.12*: [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection at Wageningen University & Research (8,300 €; PI)
-- *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD research at Wageningen University & Research (48,600 €; PI)
+- *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD study at Wageningen University & Research
 - *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China)
 - *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%)
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%)
