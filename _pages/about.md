@@ -45,7 +45,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - *2020.02:* &nbsp;🎉 One second-authored research article published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.4)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
 # 💼 Work Experiences
-**Department of Environmental Management, College of Environment Sciences and Engineering, [Peking University](https://english.pku.edu.cn/), Beijing, China**              
+**College of Environment Sciences and Engineering, [Peking University](https://english.pku.edu.cn/), Beijing, China**              
 *2026.05 - 2028.05 Boya Postdoctoral Researcher*   
 - **Supervisor:** Associate Prof. Dr. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) 
 
