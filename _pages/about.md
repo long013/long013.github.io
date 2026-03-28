@@ -46,7 +46,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 💼 Work Experiences
 **College of Environment Sciences and Engineering, [Peking University](https://english.pku.edu.cn/), Beijing, China**              
-*2026.05 - 2028.05 Postdoctoral Researcher with the [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)*   
+*2026.05 - 2028.05 (expected) Postdoctoral Researcher with the [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)*   
 - **Supervisor:** Associate Prof. Dr. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) 
 
 # 📖 Education
@@ -72,7 +72,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 👾 Training Courses
 **[LAMASUS / BrightSpace / Tools4CAP Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)**                
-*2026.06 International Institute of Applied Systems Analysis (IIASA), Laxenburg, Austria*       
+*2026.06 (upcoming) International Institute of Applied Systems Analysis (IIASA), Laxenburg, Austria*       
 - **Course:** Advanced modelling techniques for land-use and policy analysis    
 
 **[European Association of Environmental and Resource Economists (EAERE) summer school](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)**                
