@@ -210,13 +210,13 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Languages**: Native to Mandarin Chinese. Strong reading, writing, and speaking competencies in English.
 
 # 👧 Profession Association Memberships
-- American Economic Association (AEA)
-- Agricultural & Applied Economics Association (AAEA)
-- Association of Environmental and Resource Economists (AERE)
-- European Economic Association (EEA)
-- European Association of Agricultural Economists (EAAE)
-- European Association of Environmental and Resource Economists (EAERE)
-- International Society for Industrial Ecology (ISIE)
-- American Geosciences Union (AGU)
-- European Geosciences Union (EGU)
-- Global Trade Analysis Project (GTAP) Network
+- [American Economic Association (AEA)](https://www.aeaweb.org/)
+- [Agricultural & Applied Economics Association (AAEA)](https://www.aaea.org/)
+- [Association of Environmental and Resource Economists (AERE)](https://www.aere.org/)
+- [European Economic Association (EEA)](https://eeassoc.org/)
+- [European Association of Agricultural Economists (EAAE)](https://eaae.org/)
+- [European Association of Environmental and Resource Economists (EAERE)](https://www.eaere.org/)
+- [International Society for Industrial Ecology (ISIE)](https://is4ie.org/)
+- [American Geosciences Union (AGU)](https://www.agu.org/)
+- [European Geosciences Union (EGU)](https://www.egu.eu/)
+- [Global Trade Analysis Project (GTAP) Network](https://www.gtap.agecon.purdue.edu/)
