@@ -46,7 +46,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 💼 Work Experiences
 **College of Environment Sciences and Engineering, [Peking University](https://english.pku.edu.cn/), Beijing, China**              
-*2026.05 - 2028.05 (expected) Postdoctoral Researcher with the [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)*   
+*2026.04 - 2028.03 (expected) Postdoctoral Researcher with the [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)*   
 - **Supervisor:** Associate Prof. Dr. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) 
 
 # 📖 Education
