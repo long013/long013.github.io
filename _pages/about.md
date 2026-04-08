@@ -84,7 +84,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): April 2, 2026): Total=349; H-index=8; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): April 8, 2026): Total=349; H-index=8; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
