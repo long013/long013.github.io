@@ -23,6 +23,9 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Environmental impact assessment of food systems 🧩
 
 # 🔥 News
+- *2026.07:* &nbsp;💬 An oral presentation to be delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)** (Kansas, the United States).
+- *2026.06:* &nbsp;💬 An oral presentation to be delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)** (Carcavelos, Portugal).
+- *2026.06:* &nbsp;💬 A poster presentation to be delivered at the **[Land Management for Sustainability (LAMASUS) Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)** (Laxenburg, Austria).
 - *2026.01:* &nbsp;🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my supervisors, colleagues, family, and friends for their unwavering support. 🎉🥳
 - *2025.12:* &nbsp;💰 Awarded for the **[Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)** at Peking University.
 - *2025.09:* &nbsp;🎉 One first-authored research briefing published and featured on the cover of ***Nature Food (SCI Q1; IF= 21.9)***: [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas).
