@@ -84,7 +84,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): April 12, 2026): Total=349; H-index=8; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): April 2, 2026): Total=352; H-index=8; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
@@ -141,6 +141,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 💬 Conference Presentations
 ***<sup>*</sup>indicates presenter***       
+- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (07/2026, upcoming). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. An oral presentation to be delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)**, Kansas City, MO, the United States.
 - **Long, W.**, Zhu, X.<sup>*</sup>, Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (06/2026, upcoming). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. An oral presentation to be delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)**, Carcavelos, Portugal.
 - **Long, W.<sup>*</sup>**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (06/2026, upcoming). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. A poster presentation to be delivered at the **[Land Management for Sustainability (LAMASUS) Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)**, International Institute of Applied Systems Analysis (IIASA), Laxenburg, Austria.
 - **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (08/2025). Land-use emission leakages from China’s dietary shift and afforestation amplify food insecurity and economic losses under the 2 °C target. A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)**, Bonn, Germany.  
