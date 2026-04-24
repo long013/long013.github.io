@@ -64,7 +64,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Supervisor:** Assistant Prof. Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)
                      
 **College of Resources and Environmental Sciences, [China Agricultural University](https://en.cau.edu.cn/), Beijing, China**                    
-*2020.09 - 2021.09 Visiting PhD Student*              
+*2020.09 - 2021.08 Visiting PhD Student*              
 *2018.09 - 2020.06 Master of Agriculture in Plant Nutrition*                                        
 - **Supervisor:** Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm) and Associate Prof. Dr. [Hongliang Wang](https://faculty.cau.edu.cn/whl1/)
 - **Dissertation:** *Nitrogen footprint of China’s pig production and mitigation measures through feed management*
@@ -87,7 +87,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): April 22, 2026): Total=352; H-index=8; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): April 24, 2026): Total=353; H-index=8; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
