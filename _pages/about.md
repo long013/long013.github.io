@@ -141,7 +141,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub). In: ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.4)***, 289, 106748. DOI: 10.1016/j.agee.2019.106748        
    
 # 📜 Working Papers
-- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2025). **Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China**. *[Full paper available upon request]*.            
+- **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2026). **Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China**. *[Full paper available upon request]*.            
 
 # 💬 Conference Presentations
 ***<sup>*</sup>indicates presenter***       
