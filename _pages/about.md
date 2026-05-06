@@ -25,6 +25,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 # 🔥 News
 - *2026.07:* &nbsp;💬 An oral presentation to be delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)** (Kansas, the United States).
 - *2026.06:* &nbsp;💬 An oral presentation to be delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)** (Carcavelos, Portugal).
+- *2026.06:* &nbsp;💬 An oral presentation to be delivered at the **[International Food and Agribusiness Management Association (IFAMA) 2026 World Conference](https://www.ifama.org/IFAMA-2026)** (Cork, Ireland).
 - *2026.06:* &nbsp;💬 A poster presentation to be delivered at the **[Land Management for Sustainability (LAMASUS) Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)** (Laxenburg, Austria).
 - *2026.01:* &nbsp;🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my supervisors, colleagues, family, and friends for their unwavering support. 🎉🥳
 - *2025.12:* &nbsp;💰 Awarded for the **[Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)** at Peking University in Beijing, China.
@@ -87,7 +88,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): April 24, 2026): Total=353; H-index=8; I-10=7***
+⭐***Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): May 6, 2026): Total=359; H-index=8; I-10=7***
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
@@ -146,6 +147,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 ***<sup>*</sup>indicates presenter***       
 - **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (07/2026, upcoming). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. An oral presentation to be delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)**, Kansas City, MO, the United States.
 - **Long, W.**, Zhu, X.<sup>*</sup>, Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (06/2026, upcoming). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. An oral presentation to be delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)**, Carcavelos, Portugal.
+- **Long, W.**, Zhu, X.<sup>*</sup>, Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (06/2026, upcoming). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. An oral presentation to be delivered at the **[International Food and Agribusiness Management Association (IFAMA) 2026 World Conference](https://www.ifama.org/IFAMA-2026)**, Cork, Ireland.
 - **Long, W.<sup>*</sup>**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (06/2026, upcoming). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. A poster presentation to be delivered at the **[Land Management for Sustainability (LAMASUS) Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)**, International Institute of Applied Systems Analysis (IIASA), Laxenburg, Austria.
 - **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (08/2025). Land-use emission leakages from China’s dietary shift and afforestation amplify food insecurity and economic losses under the 2 °C target. A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)**, Bonn, Germany.  
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2025). Quantifying the environmental and economic impacts of upcycling low-opportunity-cost feed as animal feed: a general equilibrium approach. An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm)**, Wageningen, the Netherlands.
