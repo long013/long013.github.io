@@ -55,7 +55,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 📖 Education
 **Wageningen School of Social Sciences, [Wageningen University & Research](https://www.wur.nl/), Wageningen, the Netherlands**              
-*2020.09 - 2026.01 PhD Candidate of Economics in Environmental Economics and Natural Resources*               
+*2020.09 - 2026.01 PhD of Economics in Environmental Economics and Natural Resources*               
 - **Supervisor:** Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)
 - **Program:** [The Sino-Dutch Agriculture Green Development (AGD) PhD program](https://www.wur.nl/en/education/phd-programme/agd-phd-program)
 - **Dissertation:** *[Towards a sustainable food system in China: insights from an integrated environmental-economic modelling approach](https://research.wur.nl/en/publications/towards-a-sustainable-food-system-in-china-insights-from-an-integ/)*
