@@ -22,7 +22,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Global food supply chains, international trade, and environmental spillovers 🔁
 - Climate mitigation and air and water pollution control 🌎
 - Food security, environmental sustainability, and public health 🌱
-- Integrated environment–economy–health modelling of food systems 💻
+- Integrated environmental–economic–health modelling of food systems 💻
 
 # 🔥 News
 - *2026.07:* &nbsp;💬 An oral presentation to be delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)** (Kansas, the United States).
