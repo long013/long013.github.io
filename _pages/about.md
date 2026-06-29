@@ -183,8 +183,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - *2020.12*: [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection at Wageningen University & Research (8,300 €; PI)
 - *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD study at Wageningen University & Research
 - *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China)
-- *2019.10*: The First Class Master Academic Scholarship at China Agricultural University (Top 1%)
-- *2018.11*: The First Prize of English Speech Contest at China Agricultural University  (Top 1%)                   
+- *2019.10*: The First Class Master Academic Scholarship at China Agricultural University (Top 1%)                
 
 # 👩‍🏫 Teaching Experience
 **ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS)**                            
