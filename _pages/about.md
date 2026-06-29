@@ -78,8 +78,12 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Dual Bachelor:** Dual Bachelor of Arts in English
 
 # 👾 Training Courses
+**[International Summer School on Geograohy and Sustainability 2026](https://igu-geosus.org/pages/telecoupling-summer-school.html)**                
+*2026.08 (upcoming) Beijing Normal University, Beijing, China*       
+- **Course:** Frontiers in Telecoupling and Metacoupling Research for Addressing Global Sustainability Challenges   
+
 **[Land Management for Sustainability (LAMASUS) Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)**                
-*2026.06 (upcoming) International Institute of Applied Systems Analysis (IIASA), Laxenburg, Austria*       
+*2026.06 International Institute of Applied Systems Analysis (IIASA), Laxenburg, Austria*       
 - **Course:** Advanced modelling techniques for land-use and policy analysis    
 
 **[European Association of Environmental and Resource Economists (EAERE) summer school](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)**                
