@@ -31,7 +31,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - *2026.06:* &nbsp;💬 An oral presentation delivered at the **[International Food and Agribusiness Management Association (IFAMA) 2026 World Conference](https://www.ifama.org/IFAMA-2026)** (Cork, Ireland).
 - *2026.06:* &nbsp;💬 A poster presentation delivered at the **[Land Management for Sustainability (LAMASUS) Summer School 2026](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)** (Laxenburg, Austria).
 - *2026.01:* &nbsp;🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my supervisors, colleagues, family, and friends for their unwavering support. 🎉🥳
-- *2025.12:* &nbsp;💰 Awarded for the **[Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)** at Peking University in Beijing, China.
+- *2025.12:* &nbsp;💰 Awarded for the **[Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm)** at Peking University in Beijing, China (380 fellowships each year).
 - *2025.09:* &nbsp;🎉 One first-authored research briefing published and featured on the cover of ***Nature Food (SCI Q1; IF=24.7)***: [**Upcycling of food waste and food processing by-products into animal feed is not a panacea**](https://www.nature.com/articles/s43016-025-01235-7#citeas).
 - *2025.08:* &nbsp;🎉 One first-authored research article published in ***Nature Food (SCI Q1; IF= IF=24.7)***: [**Rebound effects may undermine the benefits of upcycling food waste and food processing by-products as animal feed in China**](https://www.nature.com/articles/s43016-025-01219-7#citeas).
 - *2025.08:* &nbsp;💬 A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)** (Bonn, Germany).
@@ -175,7 +175,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 🏆 Grants and Awards
 - *2026.06:* [The First Place Best Paper Award](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/) at the IFAMA 2026 World Conference (1st out of 440+ papers)
-- *2025.12:* [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) at Peking University
+- *2025.12:* [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) at Peking University (380 fellowships each year)
 - *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from WASS for the four-month research at the University of California, Davis (4,000 €; PI)
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
 - *2023.02*: Honorarium for co-organising the 6th and 7th Sino-Dutch AGD Symposiums (1,000 €; PI)
