@@ -18,7 +18,7 @@ I got my PhD in Environmental Economics from [Wageningen University & Research](
 Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) at [Peking University](https://english.pku.edu.cn/) in Beijing, China, where I will continue my work on general equilibrium modelling of food systems from April 2026 onwards. Building on my doctoral research, I will work closely with Associate Prof. Dr. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) to further develop my modelling framework by incorporating a human health dimension, advancing the assessment of co-benefits across food, environment, and health systems. 
 
 # 🎀 Research Interests
-- Sustainable food-system transformations 🍽️
+- Sustainable food system transformations 🍽️
 - Global food supply chains, international trade, and environmental spillovers 🔁
 - Climate change mitigation and air and water pollution control 🌎
 - Interactions among food security, environmental sustainability, and public health 🌱
