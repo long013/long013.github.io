@@ -27,7 +27,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 # 🔥 News
 - *2026.07:* &nbsp;💬 An oral presentation to be delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)** (Kansas, the United States).
 - *2026.07:* &nbsp;💬 An oral presentation to be delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)** (Carcavelos, Portugal).
-- *2026.06:* &nbsp;🎉 Awarded for the **[1st Place Best Paper](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/)** at the International Food and Agribusiness Management Association (IFAMA) 2026 World Conference (Cork, Ireland).
+- *2026.06:* &nbsp;🎉 Awarded for the **[First Place Best Paper](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/)** at the International Food and Agribusiness Management Association (IFAMA) 2026 World Conference (Cork, Ireland).
 - *2026.06:* &nbsp;💬 An oral presentation delivered at the **[International Food and Agribusiness Management Association (IFAMA) 2026 World Conference](https://www.ifama.org/IFAMA-2026)** (Cork, Ireland).
 - *2026.06:* &nbsp;💬 A poster presentation delivered at the **[Land Management for Sustainability (LAMASUS) Summer School 2026](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)** (Laxenburg, Austria).
 - *2026.01:* &nbsp;🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my supervisors, colleagues, family, and friends for their unwavering support. 🎉🥳
@@ -39,7 +39,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - *2024.10:* &nbsp;😊 Started my four-month research as a visiting PhD student at **School of Veterinary Medicine, [University of California, Davis](https://www.ucdavis.edu/)** in Davis, the United States.
 - *2024.09:* &nbsp;🎉 One first-authored research article published in ***Sustainable Production and Consumption (SCI & SSCI Q1; IF=9.2)***: [**Exploring sustainable food system transformation options in China: An integrated environmental-economic modelling approach based on the applied general equilibrium framework**](https://www.sciencedirect.com/science/article/pii/S2352550924002616).
 - *2024.07:* &nbsp;💰 Awarded for the **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month of research at **[University of California, Davis](https://www.ucdavis.edu/)** (Davis, the United States) (4,000 €; PI).
-- *2024.07:* &nbsp;💬 An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
+- *2024.07:* &nbsp;💬 An oral presentation delivered at the **[29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
 - *2024.06:* &nbsp;💬 An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, the Netherlands).
 - *2023.08:* &nbsp;💬 A poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)** (Rennes, France).
 - *2023.07:* &nbsp;💬 An oral presentation delivered at the **[EAERE Summer School 2023](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)** (University of Graz, Graz, Austria).
@@ -158,7 +158,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Long, W.<sup>*</sup>**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (06/2026). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. A poster presentation to be delivered at the **[Land Management for Sustainability (LAMASUS) Summer School 2026](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)**, International Institute of Applied Systems Analysis (IIASA), Laxenburg, Austria.
 - **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (08/2025). Land-use emission leakages from China’s dietary shift and afforestation amplify food insecurity and economic losses under the 2 °C target. A poster presentation delivered at the **[XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en)**, Bonn, Germany.  
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2025). Quantifying the environmental and economic impacts of upcycling low-opportunity-cost feed as animal feed: a general equilibrium approach. An oral presentation delivered at the **[4th Dutch Environmental and Resource Economics (DEARE) Day workshop](https://www.wur.nl/en/activity/deare-day-2025-2.htm)**, Wageningen, the Netherlands.
-- **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. An oral presentation delivered at the **[29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.
+- **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. An oral presentation delivered at the **[29th Annual Conference of the European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024)**, Leuven, Belgium.
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)**, Leeuwarden, Fryslân, the Netherlands.
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (05/2024). The asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability. An oral presentation delivered at the **9th Sino-Dutch Agriculture Green Development (AGD) Symposium**, Wageningen University & Research, Wageningen, the Netherlands.
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (08/2023). Integrated Environmental-economic modelling of sustainable food systems in China. A poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)**, Rennes, France.
@@ -174,7 +174,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (11/2022). The global environmental consequences of adjustments in the food systems in China. An oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.
 
 # 🏆 Grants and Awards
-- *2026.06:* [1st Place Best Paper](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/) at the IFAMA 2026 World Conference
+- *2026.06:* [The First Place Best Paper](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/) at the IFAMA 2026 World Conference
 - *2025.12:* [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) at Peking University
 - *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from WASS for the four-month research at the University of California, Davis (4,000 €; PI)
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
@@ -183,7 +183,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - *2020.12*: [Research Grant](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm) from the Sino-Dutch AGD Program for data collection at Wageningen University & Research (8,300 €; PI)
 - *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) for PhD study at Wageningen University & Research
 - *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the Top 1% best master thesis in China)
-- *2019.10*: The First-Class Master Academic Scholarship at China Agricultural University (Top 1%)
+- *2019.10*: The First Class Master Academic Scholarship at China Agricultural University (Top 1%)
 - *2018.11*: The First Prize of English Speech Contest at China Agricultural University  (Top 1%)                   
 
 # 👩‍🏫 Teaching Experience
@@ -210,10 +210,10 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Facilitated constructive peer feedback to enhance the quality of master students' written work
 
 # 💡 Academic Services
-- **Peer-reviewed Journal Article Reviewer**: [Nature Food](https://www.nature.com/natfood/) (2025).
-- **Conference Paper Reviewer**: [The XVIII European Association of Agricultural Economists (EAAE) Congress](https://www.ilr1.uni-bonn.de/eaaecongress2025/en) (2025).
-- **Conference Abstract Reviewer**: [The 2024, 2025, and 2026 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting) (2024-2026).
-- **Conference Parallel Session Chair and Discussant**: [The 29th Annual Conference of European Association of Environmental and Resource Economists (EAERE)](http://www.eaere-conferences.org/index.php?y=2024) (2024).
+- **Peer-reviewed Journal Article Reviewer**: Nature Food (2025).
+- **Conference Paper Reviewer**: The XVIII European EAAE Congress (2025).
+- **Conference Abstract Reviewer**: The 2024, 2025, and 2026 Agricultural and Applied Economics Association (AAEA) Annual Meeting (2024-2026).
+- **Conference Parallel Session Chair and Discussant**: The 29th Annual Conference of the European Association of Environmental and Resource Economists (EAERE) (2024).
 - **Conference Co-organiser**: The 6th and 7th Sino-Dutch Agriculture Green Development (AGD) Symposiums (2022-2023).
 
 # 💻 Skills
@@ -222,7 +222,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Software**: ArcGIS, Simapro, Github, Latex, and Microsoft Office.
 - **Languages**: Native to Mandarin Chinese. Strong reading, writing, and speaking competencies in English.
 
-# 👧 Profession Association Memberships
+# 👧 Professional Association Memberships
 - [American Economic Association (AEA)](https://www.aeaweb.org/)
 - [Agricultural & Applied Economics Association (AAEA)](https://www.aaea.org/)
 - [Association of Environmental and Resource Economists (AERE)](https://www.aere.org/)
