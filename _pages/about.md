@@ -27,7 +27,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 # 🔥 News
 - *2026.07:* &nbsp;💬 An oral presentation to be delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)** (Kansas, the United States).
 - *2026.07:* &nbsp;💬 An oral presentation to be delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)** (Carcavelos, Portugal).
-- *2026.06:* &nbsp;🎉 Awarded for the **[First Place Best Paper](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/)** at the International Food and Agribusiness Management Association (IFAMA) 2026 World Conference (Cork, Ireland).
+- *2026.06:* &nbsp;🎉 Awarded for the **[First Place Best Paper Award](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/)** at the International Food and Agribusiness Management Association (IFAMA) 2026 World Conference (1st out of 440+ papers).
 - *2026.06:* &nbsp;💬 An oral presentation delivered at the **[International Food and Agribusiness Management Association (IFAMA) 2026 World Conference](https://www.ifama.org/IFAMA-2026)** (Cork, Ireland).
 - *2026.06:* &nbsp;💬 A poster presentation delivered at the **[Land Management for Sustainability (LAMASUS) Summer School 2026](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)** (Laxenburg, Austria).
 - *2026.01:* &nbsp;🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my supervisors, colleagues, family, and friends for their unwavering support. 🎉🥳
@@ -174,7 +174,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (11/2022). The global environmental consequences of adjustments in the food systems in China. An oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.
 
 # 🏆 Grants and Awards
-- *2026.06:* [The First Place Best Paper](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/) at the IFAMA 2026 World Conference
+- *2026.06:* [The First Place Best Paper Award](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/) at the IFAMA 2026 World Conference (1st out of 440+ papers)
 - *2025.12:* [Boya Postdoctoral Fellowship](https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm) at Peking University
 - *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from WASS for the four-month research at the University of California, Davis (4,000 €; PI)
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €; PI).
