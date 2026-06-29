@@ -78,7 +78,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Dual Bachelor:** Dual Bachelor of Arts in English
 
 # 👾 Training Courses
-**[International Summer School on Geograohy and Sustainability 2026](https://igu-geosus.org/pages/telecoupling-summer-school.html)**                
+**[International Summer School on Geograohy and Sustainability](https://igu-geosus.org/pages/telecoupling-summer-school.html)**                
 *2026.08 (upcoming) Beijing Normal University, Beijing, China*       
 - **Course:** Frontiers in Telecoupling and Metacoupling Research for Addressing Global Sustainability Challenges   
 
