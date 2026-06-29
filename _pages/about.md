@@ -79,7 +79,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 👾 Training Courses
 **[International Summer School on Geograohy and Sustainability](https://igu-geosus.org/pages/telecoupling-summer-school.html)**                
-*2026.08 (upcoming) Beijing Normal University, Beijing, China*       
+*2026.08 (upcoming) Michigan State University, University of Hong Kong & Beijing Normal University, Beijing, China*       
 - **Course:** Frontiers in Telecoupling and Metacoupling Research for Addressing Global Sustainability Challenges   
 
 **[Land Management for Sustainability (LAMASUS) Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)**                
