@@ -20,7 +20,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 # 🎀 Research Interests
 - Sustainable food-system transformations 🍽️
 - Global food supply chains, international trade, and environmental spillovers 🔁
-- Climate mitigation and air and water pollution control 🌎
+- Climate change mitigation and air and water pollution control 🌎
 - Interactions among food security, environmental sustainability, and public health 🌱
 - Integrated environmental–economic–health modelling of food systems 💻
 
