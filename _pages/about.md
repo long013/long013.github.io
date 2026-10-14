@@ -97,7 +97,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Course:** CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China
 
 # 📝 Publications
-***<sup>#</sup>equal contribution***; ***<sup>*</sup>corresponding author***<br>
+***<sup>#</sup>equal contribution;*** ***<sup>&#42</sup>corresponding author***<br>
 ⭐*Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): October 14, 2026): Total=406; H-index=9; I-10=8*
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
@@ -151,7 +151,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., Wang, J., Qin, W., Hou, Y.<sup>*</sup>, & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub). In: ***Agriculture, Ecosystems & Environment (SCI Q1; IF=7.7)***, 289, 106748. DOI: 10.1016/j.agee.2019.106748        
    
 # 📜 Working Papers
-***<sup>#</sup>equal contribution***; ***<sup>*</sup>corresponding author***
+***<sup>#</sup>equal contribution;*** ***<sup>&#42</sup>corresponding author***
 - **Long, W.**, Zhu, X.<sup>&#42;</sup>, Hou, Y.<sup>&#42;</sup>, Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2026). **Trade-induced land-use change may reshape the environmental performance of China’s dietary and afforestation policies with implications for the 2 °C climate target**. *[Full paper available upon request]*.
 - Lan, Y.#, **Long, W.<sup>#</sup>**, Fu, B., Chai, L., Zamani, O., Yang, Y., Zhuang, M., Liu, G.G., Xie, Y.<sup>&#42;</sup>, Dai, H.<sup>&#42;</sup> (2026). **Global food security risks from joint disruptions to nitrogen fertilizer supply and food trade at the Strait of Hormuz**. *[Full paper available upon request]*.        
 
