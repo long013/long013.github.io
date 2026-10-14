@@ -150,7 +150,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub). In: ***Agriculture, Ecosystems & Environment (SCI Q1; IF=7.7)***, 289, 106748. DOI: 10.1016/j.agee.2019.106748        
    
 # 📜 Working Papers
-***<sup>#</sup>indicates first author***      
+***<sup>#</sup>indicates equal contribution***      
 - **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2026). **Trade-induced land-use change may reshape the environmental performance of China’s dietary and afforestation policies with implications for the 2 °C climate target**. *[Full paper available upon request]*.
 - Lan, Y.#, **Long, W.<sup>#</sup>**, Fu, B., Chai, L., Zamani, O., Yang, Y., Zhuang, M., Liu, G.G., Xie, Y.*, Dai, H.* (2026). **Global food security risks from joint disruptions to nitrogen fertilizer supply and food trade at the Strait of Hormuz**. *[Full paper available upon request]*.        
 
