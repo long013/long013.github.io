@@ -25,8 +25,10 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Integrated environmental-economic-health modelling of food systems 💻
 
 # 🔥 News
-- *2026.07:* &nbsp;💬 An oral presentation to be delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)** (Kansas, the United States).
-- *2026.07:* &nbsp;💬 An oral presentation to be delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)** (Carcavelos, Portugal).
+- *2026.11:* &nbsp;💬 An oral presentation to be delivered at the **[Overshoot Conference 2026](https://overshootconference.org/)** (Beijing, China).
+- *2026.08:* &nbsp;💬 An oral presentation delivered at the **[International Summer School on Geograohy and Sustainability](https://igu-geosus.org/pages/telecoupling-summer-school.html)** (Beijing, China).
+- *2026.07:* &nbsp;💬 An oral presentation delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)** (Kansas, the United States).
+- *2026.07:* &nbsp;💬 An oral presentation delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)** (Carcavelos, Portugal).
 - *2026.06:* &nbsp;🎉 Awarded for the **[First Place Best Paper Award](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/)** at the International Food and Agribusiness Management Association (IFAMA) 2026 World Conference (1st out of 440+ papers).
 - *2026.06:* &nbsp;💬 An oral presentation delivered at the **[International Food and Agribusiness Management Association (IFAMA) 2026 World Conference](https://www.ifama.org/IFAMA-2026)** (Cork, Ireland).
 - *2026.06:* &nbsp;💬 A poster presentation delivered at the **[Land Management for Sustainability (LAMASUS) Summer School 2026](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)** (Laxenburg, Austria).
@@ -79,7 +81,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 👾 Training Courses
 **[International Summer School on Geograohy and Sustainability](https://igu-geosus.org/pages/telecoupling-summer-school.html)**                
-*2026.08 (upcoming) Michigan State University, University of Hong Kong & Beijing Normal University, Beijing, China*       
+*2026.08 Michigan State University, University of Hong Kong & Beijing Normal University, Beijing, China*       
 - **Course:** Frontiers in Telecoupling and Metacoupling Research for Addressing Global Sustainability Challenges   
 
 **[Land Management for Sustainability (LAMASUS) Summer School](https://www.lamasus.eu/lamasus-brightspace-summer-school-2026/)**                
