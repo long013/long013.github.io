@@ -25,7 +25,6 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Integrated environmental-economic-health modelling of food systems 💻
 
 # 🔥 News
-- *2026.11:* &nbsp;💬 An oral presentation to be delivered at the **[Overshoot Conference 2026](https://overshootconference.org/)** (Beijing, China).
 - *2026.08:* &nbsp;💬 An oral presentation delivered at the **[International Summer School on Geograohy and Sustainability](https://igu-geosus.org/pages/telecoupling-summer-school.html)** (Beijing, China).
 - *2026.07:* &nbsp;💬 An oral presentation delivered at the **[2026 Agricultural & Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting)** (Kansas, the United States).
 - *2026.07:* &nbsp;💬 An oral presentation delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)** (Carcavelos, Portugal).
@@ -98,7 +97,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 📝 Publications
 ***<sup>&#35;</sup> equal contribution; <sup>&#42;</sup> corresponding author*** <br>
-⭐*Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): October 14, 2026): Total=406; H-index=9; I-10=8*
+⭐*Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): October 15, 2026): Total=407; H-index=9; I-10=8*
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
@@ -157,7 +156,6 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 💬 Conference Presentations
 ***<sup>*</sup>indicates presenter***     
-- **Long, W.<sup>*</sup>** (11/2026). China’s shift towards healthier diets in an overshoot world: economy-wide environmental and health implications. An oral presentation to be delivered at the **[Overshoot Conference 2026](https://overshootconference.org/)**, Beijing, China.
 - **Long, W.<sup>*</sup>**, Yin, C., Ni, Z., Lan, X., Li, Z., Ni, X., Yao, S. (08/2026). Metacoupled impacts of a global dietary shift on environmental sustainability and human health. An oral presentation delivered at the **[International Summer School on Geograohy and Sustainability](https://igu-geosus.org/pages/telecoupling-summer-school.html)**, Beijing, China.
 - **Long, W.**, Zhu, X.<sup>*</sup>, Hou, Y., Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (07/2026). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. An oral presentation to be delivered at the **[7th World Congress of Environmental and Resource Economists (WCERE)](https://wcere2026.org/)**, Carcavelos, Portugal.
 - **Long, W.**, Zhu, X., Hou, Y., Peña-Lévano, L. M.<sup>*</sup>, Garcia‐Covarrubias L., Boy, K.-F. (06/2026). Emission leakages through trade-induced land use changes may undermine the emission mitigation effectiveness of dietary shifting and afforestation policy in China. An oral presentation to be delivered at the **[International Food and Agribusiness Management Association (IFAMA) 2026 World Conference](https://www.ifama.org/IFAMA-2026)**, Cork, Ireland.
