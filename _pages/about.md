@@ -235,7 +235,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - [European Economic Association (EEA)](https://eeassoc.org/)
 - [European Association of Agricultural Economists (EAAE)](https://eaae.org/)
 - [European Association of Environmental and Resource Economists (EAERE)](https://www.eaere.org/)
-- [International Society for Industrial Ecology (ISIE)](https://is4ie.org/)
 - [American Geosciences Union (AGU)](https://www.agu.org/)
 - [European Geosciences Union (EGU)](https://www.egu.eu/)
+- [International Society for Industrial Ecology (ISIE)](https://is4ie.org/)
 - [Global Trade Analysis Project (GTAP) Network](https://www.gtap.agecon.purdue.edu/)
