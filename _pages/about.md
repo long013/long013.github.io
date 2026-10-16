@@ -216,10 +216,11 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 💡 Academic Services
 - **Peer-reviewed Journal Article Reviewer**: Nature Food (2025).
-- **Conference Paper Reviewer**: The XVIII European EAAE Congress (2025).
-- **Conference Abstract Reviewer**: The 2024, 2025, and 2026 AAEA Annual Meetings (2024-2026).
+- **Early Career Editorial Board Member**: Carbon Footprints (2026–2028).
 - **Conference Parallel Session Chair and Discussant**: The 29th Annual Conference of the EAERE (2024).
 - **Conference Co-organiser**: The 6th and 7th Sino-Dutch AGD Symposiums (2022-2023).
+- **Conference Paper Reviewer**: The XVIII European EAAE Congress (2025).
+- **Conference Abstract Reviewer**: The 2024, 2025, and 2026 AAEA Annual Meetings (2024-2026).
 
 # 💻 Skills
 - **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), and R (intermediate).
