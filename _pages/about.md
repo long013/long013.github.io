@@ -134,7 +134,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 </div></div>
 <div class='paper-box-text' markdown="1">  
   
-- **Long, W.**, Wang, H., Hou, Y.<sup>*</sup>, Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). In: ***Environmental Science & Technology (SCI Q1; IF=12.2)***, 55(8), 4440-4451. DOI: 10.1021/acs.est.0c08359
+- **Long, W.**, Wang, H., Hou, Y.<sup>&#42;</sup>, Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). In: ***Environmental Science & Technology (SCI Q1; IF=12.2)***, 55(8), 4440-4451. DOI: 10.1021/acs.est.0c08359
 </div>
 </div>   
 
