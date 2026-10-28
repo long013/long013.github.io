@@ -226,7 +226,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), and R (intermediate).
 - **Modelling**: Applied general equilibrium (AGE) modelling, life cycle assessment (LCA), input-output (I-O) analysis, material flow analysis (MFA), and meta-analysis.
 - **Software**: ArcGIS, Simapro, Github, Latex, and Microsoft Office.
-- **Languages**: Native to Mandarin Chinese. Strong reading, writing, and speaking competencies in English.
+- **Languages**: Chinese (Native), English (Strong reading, writing, and speaking competencies), IELTS score (7.0).
 
 # 👧 Professional Association Memberships
 - [American Economic Association (AEA)](https://www.aeaweb.org/)
