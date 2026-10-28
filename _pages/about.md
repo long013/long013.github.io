@@ -223,10 +223,10 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - **Conference Abstract Reviewer**: The 2024, 2025, and 2026 AAEA Annual Meetings (2024-2026).
 
 # 💻 Skills
-- **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), and R (intermediate).
-- **Modelling**: Applied general equilibrium (AGE) modelling, life cycle assessment (LCA), input-output (I-O) analysis, material flow analysis (MFA), and meta-analysis.
-- **Software**: ArcGIS, Simapro, Github, Latex, and Microsoft Office.
-- **Languages**: Chinese (Native), English (Strong reading, writing, and speaking competencies), IELTS score (7.0).
+- **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), and R (intermediate)
+- **Modelling**: Applied general equilibrium (AGE) modelling, life cycle assessment (LCA), input-output (I-O) analysis, material flow analysis (MFA), and meta-analysis
+- **Software**: ArcGIS, Simapro, Github, Latex, and Microsoft Office
+- **Languages**: Chinese (Native), English (Strong reading, writing, and speaking competencies), IELTS score (7.0)
 
 # 👧 Professional Association Memberships
 - [American Economic Association (AEA)](https://www.aeaweb.org/)
