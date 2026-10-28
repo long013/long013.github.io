@@ -21,7 +21,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - Sustainable food system transformations 🍽️
 - Global food supply chains, international trade, and environmental spillovers 🔁
 - Climate change mitigation and air and water pollution control 🌎
-- Interactions among food security, environmental sustainability, and public health 🌱
+- Interactions among food security, environmental sustainability, and human health 🌱
 - Integrated environmental-economic-health modelling of food systems 💻
 
 # 🔥 News
