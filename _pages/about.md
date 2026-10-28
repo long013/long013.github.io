@@ -151,7 +151,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
    
 # 📜 Working Papers
 ***<sup>&#35;</sup> equal contribution; <sup>&#42;</sup> corresponding author***
-- **Long, W.**, Zhu, X.<sup>&#42;</sup>, Hou, Y.<sup>&#42;</sup>, Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2026). **Trade-induced land-use change may reshape the environmental performance of China’s dietary and afforestation policies with implications for the 2 °C climate target**. *[Full paper available upon request]*.
+- **Long, W.**, Zhu, X.<sup>&#42;</sup>, Hou, Y.<sup>&#42;</sup>, Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2026). **Trade-induced land-use change may reshape environmental performance of China's dietary and afforestation policies with implications for a 2 °C target**. *[Full paper available upon request]*.
 - Lan, Y.<sup>#</sup>, **Long, W.<sup>#</sup>**, Zamani, O., Chai, L., Zhuang, M., Fu, B., Yang, Y., Liu, G.G., Xie, Y.<sup>&#42;</sup>, Dai, H.<sup>&#42;</sup> (2026). **Joint fertilizer and food trade disruptions at the Strait of Hormuz amplify global food insecurity**. *[Full paper available upon request]*.        
 
 # 💬 Conference Presentations
