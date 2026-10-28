@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!😊 You can reach me at weitong.long@outlook.com 📧. You can find my [full](assets/Weitong_Long_CV_Full.pdf) and [efficient](assets/Weitong_Long_CV.pdf) Curriculum Vitae here. You can find my Curriculum Vitae in [Chinese](assets/龙维桐_简历.pdf) here. 
+Welcome to my personal website!😊 You can reach me at weitong.long@outlook.com or weitong.long@pku.edu.cn 📧. You can find my [full](assets/Weitong_Long_CV_Full.pdf) and [efficient](assets/Weitong_Long_CV.pdf) Curriculum Vitae here. You can find my Curriculum Vitae in [Chinese](assets/龙维桐_简历.pdf) here. 
 For a full list of my publications, please check [Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl). 
 
 I am Weitong Long (龙维桐). With over 8+ years of experience as an interdisciplinary quantitative researcher, I specialise in integrated environmental-economic modelling and environmental impact assessment of food systems. My expertise lies in applying quantitative modelling approaches to explore mitigation options towards sustainable food systems. My PhD dissertation focuses on assessing the impacts of food system transformation options—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels. I employ an integrated environmental-economic modelling approach based on the general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. 
@@ -97,7 +97,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 📝 Publications
 ***<sup>&#35;</sup> equal contribution; <sup>&#42;</sup> corresponding author*** <br>
-⭐*Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): October 19, 2026): Total=409; H-index=9; I-10=8*
+⭐*Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): October 28, 2026): Total=415; H-index=9; I-10=9*
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
@@ -134,7 +134,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 </div></div>
 <div class='paper-box-text' markdown="1">  
   
-- **Long, W.**, Wang, H., Hou, Y.<sup>&#42;</sup>, Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). In: ***Environmental Science & Technology (SCI Q1; IF=12.2)***, 55(8), 4440-4451. DOI: 10.1021/acs.est.0c08359
+- **Long, W.<sup>#</sup>**, Wang, H.<sup>#</sup>, Hou, Y.<sup>&#42;</sup>, Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359). In: ***Environmental Science & Technology (SCI Q1; IF=12.2)***, 55(8), 4440-4451. DOI: 10.1021/acs.est.0c08359
 </div>
 </div>   
 
@@ -152,7 +152,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 # 📜 Working Papers
 ***<sup>&#35;</sup> equal contribution; <sup>&#42;</sup> corresponding author***
 - **Long, W.**, Zhu, X.<sup>&#42;</sup>, Hou, Y.<sup>&#42;</sup>, Peña-Lévano, L. M., Garcia‐Covarrubias L., Boy, K.-F. (2026). **Trade-induced land-use change may reshape the environmental performance of China’s dietary and afforestation policies with implications for the 2 °C climate target**. *[Full paper available upon request]*.
-- Lan, Y.#, **Long, W.<sup>#</sup>**, Zamani, O., Chai, L., Zhuang, M., Fu, B., Yang, Y., Liu, G.G., Xie, Y.<sup>&#42;</sup>, Dai, H.<sup>&#42;</sup> (2026). **Joint fertilizer and food trade disruptions at the Strait of Hormuz amplify global food insecurity**. *[Full paper available upon request]*.        
+- Lan, Y.<sup>#</sup>, **Long, W.<sup>#</sup>**, Zamani, O., Chai, L., Zhuang, M., Fu, B., Yang, Y., Liu, G.G., Xie, Y.<sup>&#42;</sup>, Dai, H.<sup>&#42;</sup> (2026). **Joint fertilizer and food trade disruptions at the Strait of Hormuz amplify global food insecurity**. *[Full paper available upon request]*.        
 
 # 💬 Conference Presentations
 ***<sup>*</sup>indicates presenter***     
