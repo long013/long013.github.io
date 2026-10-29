@@ -97,7 +97,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 📝 Publications
 ***<sup>&#35;</sup> equal contribution; <sup>&#42;</sup> corresponding author*** <br>
-⭐*Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): October 28, 2026): Total=415; H-index=9; I-10=9*
+⭐*Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): October 29, 2026): Total=415; H-index=9; I-10=9*
 
 1️⃣**Peer-Reviewed Journal Articles (First Author):**   
 
