@@ -173,7 +173,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 🎤 Seminar Talks     
 ***<sup>*</sup>indicates presenter***       
-- **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. An oral presentation delivered at the **New Student Orientation Programme at Sanya Institut**, China Agricultural University, Sanya, China (Online).
+- **(Invited) Long, W**. (11/2026). Food system environmental policy analysis and method application. An oral presentation delivered at the **New Student Orientation Programme at Sanya Institut**, China Agricultural University, Sanya, China (Online).
 - **(Invited) Long, W**. (06/2026). Challenges and opportunities of food system transformations: Growth and insights from the Sino-Dutch Agriculture Green Development (AGD) PhD program. An oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (04/2024). Quantifying the environmental and economic impacts of upcycling food waste in China's monogastric livestock production: a general equilibrium approach. An oral presentation delivered at the **EconMonday Weekly Lunch Seminar**, Wageningen University & Research, Wageningen, the Netherlands.
 - **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. An oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).
