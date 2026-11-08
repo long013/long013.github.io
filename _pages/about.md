@@ -173,12 +173,12 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 🎤 Seminar Talks     
 ***<sup>*</sup>indicates presenter***       
-- **(Invited) Long, W**. (11/2026). Food system environmental policy analysis and method application. An oral presentation delivered at the **New Student Orientation Programme at Sanya Institute**, China Agricultural University, Sanya, China (Online).
-- **(Invited) Long, W**. (06/2026). Challenges and opportunities of food system transformations: Growth and insights from the Sino-Dutch Agriculture Green Development (AGD) PhD program. An oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).
+- **(Invited) Long, W<sup>*</sup>**. (11/2026). Food system environmental policy analysis and method application. An oral presentation delivered at the **New Student Orientation Programme at Sanya Institute**, China Agricultural University, Sanya, China (Online).
+- **(Invited) Long, W<sup>*</sup>**. (06/2026). Challenges and opportunities of food system transformations: Growth and insights from the Sino-Dutch Agriculture Green Development (AGD) PhD program. An oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (04/2024). Quantifying the environmental and economic impacts of upcycling food waste in China's monogastric livestock production: a general equilibrium approach. An oral presentation delivered at the **EconMonday Weekly Lunch Seminar**, Wageningen University & Research, Wageningen, the Netherlands.
-- **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. An oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).
+- **(Invited) Long, W<sup>*</sup>**. (12/2023). Food system environmental policy analysis and method application. An oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2023). Exploring options for sustainable food systems in China: An integrated environmental-economic modelling approach. An oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (11/2022). The global environmental consequences of adjustments in the food systems in China. An oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.
+- **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (11/2022). The global environmental consequences of adjustments in the food systems in China. An oral presentation delivered at the **EconMonday Weekly Lunch seminar**, Wageningen University & Research, Wageningen, the Netherlands.
 
 # 🏆 Grants and Awards
 - *2026.06:* [The First Place Best Paper Award](https://www.linkedin.com/feed/update/urn:li:activity:7475515360184664064/) at the IFAMA 2026 World Conference (1st out of 440+ papers)
