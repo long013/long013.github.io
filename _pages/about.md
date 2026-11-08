@@ -194,7 +194,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 👩‍🏫 Teaching Experience
 **Systems Analysis and Systems Thinking (PhD level, 1.5 ECTS)**                            
-*November, 2025 China Agricultural University, Beijing, China*                 
+*2025.11 China Agricultural University, Beijing, China*                 
 - Assisted in teaching with Prof. Yong Hou and and delivered the module on economic analysis of food systems
 - Organised tutorials, provided support to PhD students with modelling and coding inquiries, and completed grading assignments
 
