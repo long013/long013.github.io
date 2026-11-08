@@ -173,6 +173,7 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 
 # 🎤 Seminar Talks     
 ***<sup>*</sup>indicates presenter***       
+- **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. An oral presentation delivered at the **New Student Orientation Programme at Sanya Institut**, China Agricultural University, Sanya, China (Online).
 - **(Invited) Long, W**. (06/2026). Challenges and opportunities of food system transformations: Growth and insights from the Sino-Dutch Agriculture Green Development (AGD) PhD program. An oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).
 - **Long, W.<sup>*</sup>**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (04/2024). Quantifying the environmental and economic impacts of upcycling food waste in China's monogastric livestock production: a general equilibrium approach. An oral presentation delivered at the **EconMonday Weekly Lunch Seminar**, Wageningen University & Research, Wageningen, the Netherlands.
 - **(Invited) Long, W**. (12/2023). Food system environmental policy analysis and method application. An oral presentation delivered at the **Plant Nutrition Weekly Seminar**, China Agricultural University, Beijing, China (Online).
@@ -192,14 +193,19 @@ Recently, I was awarded the [Boya Postdoctoral Fellowship](https://postdocs.pku.
 - *2019.10*: The First Class Master Academic Scholarship at China Agricultural University (Top 1%)                
 
 # 👩‍🏫 Teaching Experience
-**ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS)**                            
+**Systems Analysis and Systems Thinking (PhD level, 1.5 ECTS)**                            
+*November, 2025 China Agricultural University, Beijing, China*                 
+- Assisted in teaching with Prof. Yong Hou and and delivered the module on economic analysis of food systems
+- Organised tutorials, provided support to PhD students with modelling and coding inquiries, and completed grading assignments
+
+**ENR32806: Economic Modelling of Sustainability Challenges (Msc level, 6 ECTS)**                            
 *2023 & 2024 Spring Wageningen University & Research, Wageningen, the Netherlands*                 
-- Assisted in teaching ENR32806: Economic Modelling of Sustainability Challenges (Master level, 6 ECTS) with Dr. Xueqin Zhu and Dr. Jack Peerlings
+- Assisted in teaching with Dr. Xueqin Zhu and Dr. Jack Peerlings
 - Organised tutorials, provided support to master students with modelling and coding inquiries, and completed grading assignments
 
-**ENR22806: Principles of Climate Change Economics and Policy (Master level, 6 ECTS)**                          
+**ENR22806: Principles of Climate Change Economics and Policy (Msc level, 6 ECTS)**                          
 *2022 Winter Wageningen University & Research, Wageningen, the Netherlands*                   
-- Assisted in teaching ENR22806: Principles of Climate Change Economics and Policy (Master level, 6 ECTS ) with Dr. Xueqin Zhu and Dr. Ina Möller
+- Assisted in teaching with Dr. Xueqin Zhu and Dr. Ina Möller
 - Provided feedback on literature review papers of master students and completed grading assignments
 
 # 🪁 Mentoring Experience
